@@ -135,7 +135,7 @@ init 5 python:
         "mi" : {
             None : "mi",
             "english" : "mi",
-            "polish" : "mi",
+            "polish" : "mi_pl",
             "spanish" : "mi",
             "italian" : "mi",
             "chinese" : "mi_ch",
