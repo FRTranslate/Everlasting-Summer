@@ -2,7 +2,7 @@
 WARNING!<br>
 To working game correctly u need to download updated RPA file, which is not uploaded here(25MB Github restriction).<br>
 U got 2 option:
-<ol>
+<ul>
 <li>
 Download completelly archive from Gdrive [link below after PL translation]
 </li>
