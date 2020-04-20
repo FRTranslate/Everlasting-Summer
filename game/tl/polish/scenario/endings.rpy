@@ -8,7 +8,7 @@ translate polish postscriptum_d99864b1:
 translate polish postscriptum_4d69c034:
 
 
-    "Każda historia ma swój własny zarys, konspekt, treść, punkty kluczowe, prolog i epilog”.
+    "Każda historia ma swój własny zarys, konspekt, treść, punkty kluczowe, prolog i epilog”."
 
 
 translate polish postscriptum_754a4f66:
