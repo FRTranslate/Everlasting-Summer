@@ -7,7 +7,7 @@ U got 2 option:
 Download completelly archive from Gdrive [link below after PL translation]
 </ul>
 <ul>
-Download github files from archive, and prepare it by yourself (<a href=https://github.com/rycho2009/Wieczne-lato-RPA>repo</a> instruction inside)
+Download github files from archive, and prepare it by yourself (download as a zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>repo</a>, instruction inside)
 </ul>
 </li>
 Extract zip of this repo to game folder and enjoy polish version of game!
