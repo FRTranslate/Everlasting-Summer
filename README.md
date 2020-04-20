@@ -2,12 +2,14 @@
 WARNING!<br>
 To working game correctly u need to download updated RPA file, which is not uploaded here(25MB Github restriction).<br>
 U got 2 option:
+<ol>
 <li>
 Download completelly archive from Gdrive [link below after PL translation]
 </li>
 <li>
 Download github files from archive, and prepare it by yourself (download as a zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>repo</a>, instruction inside)
 </li>
+</ol>
 Extract zip of this repo to game folder and enjoy polish version of game!
 <h1>PL</h1>
 UWAGA!<br>
