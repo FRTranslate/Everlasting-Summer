@@ -7,7 +7,7 @@ U got 2 option:
 Download completelly archive from Gdrive [link below after PL translation]
 </ul>
 <ul>
-Download github files from archive, and prepare it by yourself (download RPA tool from <a href=https://github.com/Shizmob/rpatool> here</a> download as a zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>all repo</a>, instruction at repo)
+Download github files from archive, and prepare it by yourself (download RPA tool from <a href=https://github.com/Shizmob/rpatool> here</a> and download as a zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>all repo</a>, instruction at repo)
 </ul>
 <h1>PL</h1>
 UWAGA!<br>
