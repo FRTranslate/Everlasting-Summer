@@ -7,7 +7,7 @@ U got 2 option:
 Download completelly archive from Gdrive [link below after PL translation]
 </ul>
 <ul>
-Download github files from archive, and prepare it by yourself (download RPA tool from <a href=https://github.com/Shizmob/rpatool> here</a> and download as a zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>all repo</a>, instruction at repo)
+Download github files from archive, and prepare it by yourself (<a href=https://github.com/rycho2009/Wieczne-lato-RPA>repo</a> instruction inside)
 </ul>
 </li>
 Extract zip of this repo to game folder and enjoy polish version of game!
@@ -20,7 +20,7 @@ Masz 2 możliwości:
 Pobierz gotowe archiwum z Gdrive [link below after PL translation]
 </ul>
 <ul>
-Pobierz pliki z repozytorium Githuba i przygotuj archiwum samodzielnie (pobierz RPA tool <a href=https://github.com/Shizmob/rpatool>stąd</a> i pobierz jako archiwum zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>całe repozytorium</a>, dalsza instrukcja w tym repozytorium)
+Pobierz pliki z repozytorium Githuba i przygotuj archiwum samodzielnie (pobierz jako archiwum zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>całe repozytorium</a>, dalsza instrukcja wewnątrz)
 </ul>
 </li>
 Rozpakuj zawartość archiwum zip z tego repozytorium i ciesz się polską wersją gry!
