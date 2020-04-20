@@ -24,3 +24,5 @@ Pobierz pliki z repozytorium Githuba i przygotuj archiwum samodzielnie (pobierz 
 </li>
 </ul>
 Rozpakuj zawartość archiwum zip z tego repozytorium i ciesz się polską wersją gry!
+
+ARCHIWUM NIE GOTOWE KORZYSTAJ Z KROKU 2)
