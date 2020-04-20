@@ -15,12 +15,12 @@ Extract zip of this repo to game folder and enjoy polish version of game!
 UWAGA!<br>
 By gra działała poprawnie musisz pobrać uaktualniony plik RPA, który się tutaj nie znajduje To working game correctly u need to download updated RPA file(ograniczenie Githuba do wrzucania plików max 25MB).<br>
 Masz 2 możliwości:
+<ul>
 <li>
-<ul>
 Pobierz gotowe archiwum z Gdrive [link below after PL translation]
-</ul>
-<ul>
-Pobierz pliki z repozytorium Githuba i przygotuj archiwum samodzielnie (pobierz jako archiwum zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>całe repozytorium</a>, dalsza instrukcja wewnątrz)
-</ul>
 </li>
+<li>
+Pobierz pliki z repozytorium Githuba i przygotuj archiwum samodzielnie (pobierz jako archiwum zip <a href=https://github.com/rycho2009/Wieczne-lato-RPA>całe repozytorium</a>, dalsza instrukcja wewnątrz)
+</li>
+</ul>
 Rozpakuj zawartość archiwum zip z tego repozytorium i ciesz się polską wersją gry!
