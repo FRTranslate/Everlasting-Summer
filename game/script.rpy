@@ -31,50 +31,50 @@ init -1001:
         pause 1.5
 
     transform lang_en_ground:
-        align (0.5, 0.35)
-        ease 0.5 align (0.2, 0.35)
-        linear 1.0 align (1.6, 0.35)
+        align (0.5, 0.32)
+        ease 0.5 align (0.2, 0.32)
+        linear 1.0 align (1.6, 0.32)
 
     transform lang_en_hover:
-        align (0.5, 0.35)
+        align (0.5, 0.32)
         pause 1.5
-        ease 1.0 align (0.5, 0.35)
+        ease 1.0 align (0.5, 0.32)
         linear 1.5 zoom 1.5
         pause 1.5
 
     transform lang_pl_ground:
-        align (0.5, 0.35)
-        ease 0.5 align (0.2, 0.35)
-        linear 1.0 align (1.6, 0.35)
+        align (0.5, 0.44)
+        ease 0.5 align (0.2, 0.44)
+        linear 1.0 align (1.6, 0.44)
 
     transform lang_pl_hover:
-        align (0.5, 0.35)
+        align (0.5, 0.44)
         pause 1.5
-        ease 1.0 align (0.5, 0.35)
+        ease 1.0 align (0.5, 0.44)
         linear 1.5 zoom 1.5
         pause 1.5
 
     transform lang_es_ground:
-        align (0.5, 0.5)
-        ease 0.5 align (0.2, 0.5)
-        linear 1.0 align (1.6, 0.5)
+        align (0.5, 0.56)
+        ease 0.5 align (0.2, 0.56)
+        linear 1.0 align (1.6, 0.56)
 
     transform lang_es_hover:
-        align (0.5, 0.5)
+        align (0.5, 0.56)
         pause 1.5
-        ease 1.0 align (0.5, 0.5)
+        ease 1.0 align (0.5, 0.56)
         linear 1.5 zoom 1.5
         pause 1.5
 
     transform lang_it_ground:
-        align (0.5, 0.65)
-        ease 0.5 align (0.2, 0.65)
-        linear 1.0 align (1.6, 0.65)
+        align (0.5, 0.68)
+        ease 0.5 align (0.2, 0.68)
+        linear 1.0 align (1.6, 0.68)
 
     transform lang_it_hover:
-        align (0.5, 0.65)
+        align (0.5, 0.68)
         pause 1.5
-        ease 1.0 align (0.5, 0.65)
+        ease 1.0 align (0.5, 0.68)
         linear 1.5 zoom 1.5
         pause 1.5
 
