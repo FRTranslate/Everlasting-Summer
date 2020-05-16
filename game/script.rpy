@@ -197,7 +197,7 @@ init 5 python:
         "sl_bad" : {
             None : "sl_bad",
             "english" : "sl_bad_en",
-            "polish" : "sl_bad_en",
+            "polish" : "sl_bad_pl",
             "spanish" : "sl_bad_es",
             "italian" : "sl_bad_it",
             "chinese" : "sl_bad_ch",
