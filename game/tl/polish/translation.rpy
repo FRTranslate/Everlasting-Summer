@@ -76,7 +76,7 @@ init -1002 python:
         "me" : "Semyon",
         "dreamgirl" : "...",
         "Girl" : "Girl",
-        "Camp_leader" : "Camp Leader",
+        "Camp_leader" : "Lider Obozu",
         "Nurse" : "Nurse",
         "Strange_girl" : "Strange Girl",
         "Pioneers" : "Pioneers",
