@@ -210,7 +210,7 @@ init -1002 python:
         "Restart" : "* Gra się wyłączy. Proszę ją zrestartować.",
         "note1" : '"Sovyonok" znaczy Sówka',
         "note2" : '"Dymitriewna" jest patronimiką: pochodną imienia ojca osoby (w tym przypadku Dymitrija) umieszczanego przez Rosjan po imieniu osoby jako znak szacunku lub formalny adres.',
-        "note3" : "Electronik was a robot character appearing in popular Soviet film and book series. He looked like an exact copy of a school kid called Sergey Cheesekov.",
+        "note3" : "Electronik był postacią robota występującego w popularnym radzieckim filmie i serii książek. Wyglądał jak dokładna kopia szkolnego dzieciaka o imieniu Sergey Cheesekov.",
         "note4" : "'Dva' means 'two' in Russian, the whole nickname sounds exactly like 2-ch in Russian, a reference to the late 2ch.ru anonymous imageboard.",
         "note5" : "We zwykłym języku rosyjskim, {b}kotleta{/b} (kotlet) to mięso mielone, smażone lub pieczone w kształcie kulki lub walca, bliskie Amerykańskim pasztecikom; {b}kompot{/b} to napój wytwarzany przez gotowanie świeżych lub suszonych owoców w dużej ilości wody, compote w języku Francuskim.",
         "note6" : "'48 kopecks', 'Leningradskoe' – popularne marki lodów w późnym Związku Radzieckim.",
