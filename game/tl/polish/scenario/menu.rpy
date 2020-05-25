@@ -10,27 +10,27 @@ translate polish strings:
 
 
     old "Не отвечать ей"
-    new "Do not reply"
+    new "Nie odpowiadaj"
 
 
     old "Ответить"
-    new "Reply"
+    new "Odpowiedz"
 
 
     old "Побежать за ним"
-    new "Run after him"
+    new "Ucieknij za nim"
 
 
     old "Ничего не делать"
-    new "Do nothing"
+    new "Nic nie rób"
 
 
     old "Попытаться отнять котлету"
-    new "Attempt to take the cutlet"
+    new "Spróbuj wziąść kotlet"
 
 
     old "Не пытаться отнять котлету"
-    new "Do not attempt to take the cutlet"
+    new "Nie próbuj brać kotleta"
 
 
     old "Взять ключи"
@@ -54,7 +54,7 @@ translate polish strings:
 
 
     old "Пойти одному"
-    new "Go alone"
+    new "Idź samotnie"
 
 
     old "Поспорить с Алисой"
@@ -66,11 +66,11 @@ translate polish strings:
 
 
     old "Пройти обучение"
-    new "Play the tutorial"
+    new "Rozegraj samouczek"
 
 
     old "Пропустить обучение"
-    new "Skip the tutorial"
+    new "Pomiń samouczek"
 
 
     old "Играть турнир"
@@ -146,7 +146,7 @@ translate polish strings:
 
 
     old "Пойти к Алисе"
-    new "Go to Alisa"
+    new "Idź do Alisy"
 
 
     old "Пойти на дискотеку"
@@ -210,31 +210,31 @@ translate polish strings:
 
 
     old "Пошёл с Алисой"
-    new "... go with Alisa"
+    new "... idź z Alisą"
 
 
     old "Пошёл со Славей"
-    new "... go with Slavya"
+    new "... idź z Slavyą"
 
 
     old "Пошёл с Ульяной"
-    new "... go with Ulyana"
+    new "... idź z Ulyaną"
 
 
     old "Пошёл с Леной"
-    new "... go with Lena"
+    new "... idź z Leną"
 
 
     old "Пошёл один"
-    new "... go alone"
+    new "... idź samotnie"
 
 
     old "Налево"
-    new "Go left"
+    new "Idź w lewo"
 
 
     old "Направо"
-    new "Go right"
+    new "Idź w prawo"
 
 
     old "Сказать, что ходил с Леной"
@@ -262,11 +262,11 @@ translate polish strings:
 
 
     old "Пойти с Леной"
-    new "Go with Lena"
+    new "Idź z Leną"
 
 
     old "Пойти со Славей"
-    new "Go with Slavya"
+    new "Idź z Slavyą"
 
 
     old "Да, я старался!"
@@ -294,11 +294,11 @@ translate polish strings:
 
 
     old "Попытаться найти Славю"
-    new "Try to find Slavya"
+    new "Spróbuj znaleźć Slavya"
 
 
     old "Пойти к Ульяне"
-    new "Go to Ulyana"
+    new "Idź do Ulyany"
 
 
     old "Просто сидеть"
@@ -306,11 +306,11 @@ translate polish strings:
 
 
     old "Не вмешиваться"
-    new "Do not interfere"
+    new "Nie ingeruj"
 
 
     old "Помочь Алисе"
-    new "Help Alisa"
+    new "Pomóż Alisie"
 
 
     old "Грубо схватить её за руку"
@@ -346,11 +346,11 @@ translate polish strings:
 
 
     old "Это всё она!"
-    new "That's all her fault!"
+    new "To wszystko jej wina!"
 
 
     old "Всё это моя вина..."
-    new "That's all my fault..."
+    new "To wszystko moja wina..."
 
 
     old "Идти вперёд"
@@ -362,25 +362,25 @@ translate polish strings:
 
 
     old "Выбрать Юлю"
-    new "Choose Yulya"
+    new "Wybierz Yulyę"
 
 
     old "Выбрать Славю"
-    new "Choose Slavya"
+    new "Wybierz Slavyę"
 
 
     old "Выбрать Алису"
-    new "Choose Alisa"
+    new "Wybierz Alisę"
 
 
     old "Выбрать Лену"
-    new "Choose Lena"
+    new "Wybierz Lenę"
 
 
     old "Выбрать Ульяну"
-    new "Choose Ulyana"
+    new "Wybierz Ulyanę"
 
 
     old "Выбрать Машу"
-    new "Choose Masha"
+    new "Wybierz Mashę"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
