@@ -211,7 +211,7 @@ init -1002 python:
         "note1" : '"Sovyonok" znaczy Sówka',
         "note2" : '"Dymitriewna" jest patronimiką: pochodną imienia ojca osoby (w tym przypadku Dymitrija) umieszczanego przez Rosjan po imieniu osoby jako znak szacunku lub formalny adres.',
         "note3" : "Electronik był postacią robota występującego w popularnym radzieckim filmie i serii książek. Wyglądał jak dokładna kopia szkolnego dzieciaka o imieniu Sergey Cheesekov.",
-        "note4" : "'Dva' means 'two' in Russian, the whole nickname sounds exactly like 2-ch in Russian, a reference to the late 2ch.ru anonymous imageboard.",
+        "note4" : '"Dva" po rosyjsku znaczy "dwa", a cały pseudonim brzmi w języku rosyjskim dokładnie jak 2-ch, co jest nawiązaniem do anonimowego forum z obrazkami 2ch.ru.',
         "note5" : "We zwykłym języku rosyjskim, {b}kotleta{/b} (kotlet) to mięso mielone, smażone lub pieczone w kształcie kulki lub walca, bliskie Amerykańskim pasztecikom; {b}kompot{/b} to napój wytwarzany przez gotowanie świeżych lub suszonych owoców w dużej ilości wody, compote w języku Francuskim.",
         "note6" : "'48 kopecks', 'Leningradskoe' – popularne marki lodów w późnym Związku Radzieckim.",
         "note7" : "'Durak' – card game popular in USSR, similar to President.",
