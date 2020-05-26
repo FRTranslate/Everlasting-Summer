@@ -218,7 +218,7 @@ init -1002 python:
         "note8" : "'It's not the winning but the taking part that counts'.",
         "note9" : "In USSR, a person finishing the high school typically had to choose between either getting a college degree (typically achieving a status of engineer or scientist) or going into secondary vocational school thus 'mastering a profession'.",
         "note10" : "Alexander Matrosov was a Soviet infantry soldier during Great Patriotic War, posthumously awarded the title of the Hero of the Soviet Union for blocking German machine gun with his chest.",
-        "note11" : "'Ostankinskoe' was a well-known brand of cheap beer in USSR.",
+        "note11" : "'Ostankinskoe' była dobrze znaną marką piwa w ZSRR.",
         "note12" : "Okroshka is a traditional Russian cold soup.",
         "note13" : "Komsomol was a youth division of Communist Party. Young people who failed to join it generally were treated as outcasts in the society.",
         "note14" : "'Druzhba' is both 'friendship' in Russian and, fortunately, a well-known brand of chainsaws.",
