@@ -292,7 +292,7 @@ screen main_menu:
         else:
             auto "images/gui/title_menu/mainmenu_%s.jpg"
         hotspot (439,265,318,621) clicked Start()
-        hotspot (787,261,270,537) clicked ShowMenu('load')
+        hotspot (787,261,270,577) clicked ShowMenu('load')
         hotspot (1067,748,252,312) clicked ShowMenu('preferences')
         hotspot (1083,258,229,538) clicked (Function(collect_all), ShowMenu('gallery'))
         hotspot (1459,532,149,295) clicked ShowMenu('quit') hovered Play("test_one", "sound/sfx/menu_gate.ogg")
