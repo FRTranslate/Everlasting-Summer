@@ -42,11 +42,11 @@ translate polish strings:
 
 
     old "Похвалить книгу"
-    new "Praise the book"
+    new "Pochwal książkę"
 
 
     old "Ничего не говорить"
-    new "Keep silent"
+    new "Zachowaj ciszę"
 
 
     old "Пойти за картами со Славей"
