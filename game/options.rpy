@@ -143,4 +143,3 @@ init python:
     build.classify('game/**.jpg', 'archive')
     build.classify('game/**.ogg', 'archive')
     build.classify('game/**.mp3', 'archive')
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

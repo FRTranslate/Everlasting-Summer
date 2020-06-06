@@ -2,205 +2,205 @@
 translate polish day1_e9644438:
 
 
-    "Bright daylight struck my eyes."
+    "Jasne dzienne światło uderzyło mnie w oczy."
 
 
 translate polish day1_8e82fc0a:
 
 
-    "At first I didn't pay attention, as I wasn't fully awake yet."
+    "Na początku nie zwracałem uwagi, ponieważ jeszcze nie byłem w pełni rozbudzony."
 
 
 translate polish day1_44c308e2:
 
 
-    "On their own, my legs carried me towards the door."
+    "Nogi same poniosły mnie do drzwi."
 
 
 translate polish day1_ccc28a84:
 
 
-    me "Damn, looks like I fell asleep and missed my stop...!"
+    me "Cholera, wygląda na to, że zasnąłem i przegapiłem mój przystanek...!"
 
 
 translate polish day1_aee379b4:
 
 
-    "But there was no door…"
+    "Ale nie było drzwi…"
 
 
 translate polish day1_d42615e7:
 
 
-    "I looked around the bus and realised that it wasn't a good old worn-out LiAZ, instead the bus was an Icarus model, a new one!"
+    "Rozejrzałem się po autobusie i zdałem sobie sprawę, że nie był to stary, zużyty LiAZ, lecz nowy model Icarusa!"
 
 
 translate polish day1_03cecdb6:
 
 
-    "I froze in shock."
+    "Zamarłem w szoku."
 
 
 translate polish day1_3665cd10:
 
 
-    th "How...?{w} What...?{w} Am I dead...?"
+    th "Jak...?{w} Co...?{w} Czy umarłem...?"
 
 
 translate polish day1_2df08a3e:
 
 
-    th "Have I been kidnapped?"
+    th "Zostałem porwany?"
 
 
 translate polish day1_a23b7265:
 
 
-    th "No, I must be dead..."
+    th "Nie, muszę być martwy..."
 
 
 translate polish day1_a2eb760d:
 
 
-    "I patted myself down feverishly, slapped myself painfully in the face a few times, banged my forehead on the back of one of the bus seats..."
+    "Poklepałem się gorączkowo, kilka razy boleśnie uderzyłem w twarz oraz ostatecznie walnąłem czołem w tył jednego z siedzeń autobusu..."
 
 
 translate polish day1_892f12f3:
 
 
-    th "It's clear: either I'm still alive, or you can still feel pain when you're dead."
+    th "To jasne: albo wciąż żyję, albo można odczuwać ból po śmierci."
 
 
 translate polish day1_b55f45ec:
 
 
-    th "But how could this happen?!"
+    th "Ale jak to się mogło stać?!"
 
 
 translate polish day1_8b1a1045:
 
 
-    th "Maybe I slept for too long and ended up at the bus depot."
+    th "Może zbyt długo spałem i skończyłem w zajezdni autobusowej."
 
 
 translate polish day1_fa8f47fe:
 
 
-    th "And then what, did they put me onto another bus...?"
+    th "A potem co, wsadzili mnie do innego autobusu...?"
 
 
 translate polish day1_05f4c741:
 
 
-    "I rushed out and took a look around."
+    "Wybiegłem i rozejrzałem się."
 
 
 translate polish day1_7fd7201a:
 
 
-    "Greenery wherever I looked: tall grass on the roadside, trees, flowers..."
+    "Zieleń, gdziekolwiek nie spojrzałem: wysoka trawa na poboczu, drzewa, kwiaty..."
 
 
 translate polish day1_0c35f127:
 
 
-    th "Summer!{w} But how?!{w} It was winter just a moment ago..."
+    th "Lato!{w} Ale jak?!{w} Jeszcze przed chwilą była zima..."
 
 
 translate polish day1_ae3344e7:
 
 
-    "My head was aching unbearably.{w} As if it was going to explode."
+    "Głowa bolała mnie nieznośnie.{w} Jakby miała wybuchnąć."
 
 
 translate polish day1_2208f558:
 
 
-    "Slowly, I began to remember."
+    "Powoli zacząłem sobie przypominać."
 
 
 translate polish day1_8d858ed9:
 
 
-    "A long road running off into the distance; forests, plains, fields, lakes, and forests again."
+    "Długa droga biegnąca w dal; lasy, równiny, pola, jeziora i znów lasy."
 
 
 translate polish day1_786f868f:
 
 
-    th "I think I was sleeping; but then how can I remember all of it?"
+    th "Myślę, że spałem; ale jak mogę to wszystko pamiętać?"
 
 
 translate polish day1_2f605107:
 
 
-    "And then…{w} A gap..."
+    "A potem…{w} Luka..."
 
 
 translate polish day1_5fabbbed:
 
 
-    "Some girl leaning over me."
+    "Jakaś dziewczyna pochyliła się nade mną."
 
 
 translate polish day1_73437152:
 
 
-    "She softly whispered something into my ear."
+    "Delikatnie szepnęła mi coś do ucha."
 
 
 translate polish day1_c2d5fb61:
 
 
-    "Then a gap again..."
+    "Potem znów luka..."
 
 
 translate polish day1_2e96e275:
 
 
-    "And then I woke up here."
+    "A potem obudziłem się tutaj."
 
 
 translate polish day1_c8d2bde3:
 
 
-    th "Who was that strange girl?"
+    th "Kim była ta obca dziewczyna?"
 
 
 translate polish day1_a1a6b8d6:
 
 
-    th "Or was she just a dream?"
+    th "A może była tylko snem?"
 
 
 translate polish day1_ebfa0491:
 
 
-    "For some reason thinking about her made me feel better and calmed me down a little. I felt warmth all over, coming from the inside."
+    "Z jakiegoś powodu myślenie o niej poprawiło mi humor i trochę mnie uspokoiło. Wszędzie czułem ciepło, pochodzące od środka."
 
 
 translate polish day1_fde77cc5:
 
 
-    th "Could it be her who brought me here?"
+    th "Czy to ona mnie tu sprowadziła?"
 
 
 translate polish day1_9bacf66f:
 
 
-    th "Then I need to find her!"
+    th "Muszę więc ją znaleźć!"
 
 
 translate polish day1_a35e9118:
 
 
-    th " And the best place to look for her is away from here."
+    th " A najlepsze miejsce do jej poszukiwania jest daleko stąd."
 
 
 translate polish day1_378336bd:
 
 
-    " I rushed to the left, then to the right, then stopped, hesitating over where to go. Finally, I ran in the direction from which the bus had probably came."
+    " Pobiegłem w lewo, potem w prawo, a potem zatrzymałem się, wahając się, dokąd pójść. W końcu pobiegłem w kierunku, z którego prawdopodobnie przyjechał autobus."
 
 
 translate polish day1_a20cefa7:
@@ -218,157 +218,157 @@ translate polish day1_a20cefa7_1:
 translate polish day1_723ee7f4:
 
 
-    "Physical exercise does refresh one's mind. Thoughts become clearer, and it gets a little easier to evaluate the surrounding reality."
+    "Ćwiczenia fizyczne odświeżają umysł. Myśli stają się jaśniejsze, a ocena otaczającej rzeczywistości jest nieco łatwiejsza."
 
 
 translate polish day1_cb806649:
 
 
-    "Not in my case however – I was sitting on the roadside, wheezing and trying to ease my sore throat by gulping breaths of hot air."
+    "Jednak nie w moim przypadku - siedziałem na poboczu, sapiąc i próbując złagodzić ból gardła, łapiąc dech gorącego powietrza."
 
 
 translate polish day1_6d244e52:
 
 
-    "In any case, the run did its job: the fear withdrew for a while."
+    "W każdym razie bieg spełnił swoje zadanie: strach na chwilę zniknął."
 
 
 translate polish day1_adb77bc9:
 
 
-    th "Maybe I really am just dreaming...?"
+    th "Może naprawdę po prostu śnię...?"
 
 
 translate polish day1_93fa4347:
 
 
-    "Though recalling my self-harm on the bus, I immediately rejected the idea."
+    "Przypomniawszy sobie samokaleczenie w autobusie, natychmiast odrzuciłem ten pomysł."
 
 
 translate polish day1_fae72ec6:
 
 
-    me "I am neither dreaming nor dead..."
+    me "Ani nie śnię, ani nie umarłem..."
 
 
 translate polish day1_36f36703:
 
 
-    "A narrow road ran through the field and far into the distance.{w} That exact same road from my dream."
+    "Wąska droga biegła przez pole i nikła daleko w oddali.{w} Tak samo jak droga z mojego snu."
 
 
 translate polish day1_21bd3c65:
 
 
-    th "I must be very far away from home."
+    th "Muszę być bardzo daleko od domu."
 
 
 translate polish day1_41a25460:
 
 
-    "And it's not just that it was winter yesterday and it's summer now."
+    "I nie chodzi tylko o to, że wczoraj była zima, a teraz lato."
 
 
 translate polish day1_fe462b7c:
 
 
-    "It's the whole environment."
+    "To całe środowisko."
 
 
 translate polish day1_610fd3ae:
 
 
-    th "Of course, summer is usually like this, green and hot- but here everything is not entirely lifelike."
+    th "Oczywiście zwykle lato takie jest, zielone i gorące - ale tutaj wszystko nie jest do końca realistyczne."
 
 
 translate polish day1_b66d48e9:
 
 
-    "Everything looks like it was taken from the paintings of Russian landscape artists of the nineteenth century."
+    "Wszystko wygląda tak, jakby zostało zaczerpnięte z dzieł rosyjskich malarzy krajobrazu dziewiętnastego wieku."
 
 
 translate polish day1_d7a6969b:
 
 
-    "The grass is just too lush; the bushes are not like what bushes should be, they are so thick that you can't see anything through them, like treetops, honestly..."
+    "Trawa jest po prostu zbyt bujna; krzaki nie są takie, jak być powinny, są tak grube, jak wierzchołki drzew - szczerze mówiąc, nie można nic przez nie zobaczyć..."
 
 
 translate polish day1_6482df8a:
 
 
-    "And the trees themselves...{w} The forest was quite far away, but the trees looked as if they had closed their ranks and were now just waiting for the order to advance onto the fields and plains."
+    "I same drzewa...{w} Las był dość daleko, ale drzewa wyglądały, jakby zamknęły szeregi i tylko czekały na rozkaz, aby przejść na pola i równiny."
 
 
 translate polish day1_46d39e23:
 
 
-    "I caught my breath and looked at the bus, which was now barely visible."
+    "Złapałem oddech i spojrzałem na autobus, który był teraz ledwo widoczny."
 
 
 translate polish day1_d0f34e2d:
 
 
-    th "That was a good run..."
+    th "To był dobry bieg..."
 
 
 translate polish day1_5a5230cb:
 
 
-    "Fear overtook me once again."
+    "Strach znów mnie ogarnął."
 
 
 translate polish day1_52a8e81e:
 
 
-    th "Those power lines...{w} There must be people here!"
+    th "Te linie energetyczne...{w} Tu muszą być ludzie!"
 
 
 translate polish day1_a53379f8:
 
 
-    "But what does it {i}mean{/i}?"
+    "Ale co to {i}znaczy{/i}?"
 
 
 translate polish day1_8d395e64:
 
 
-    "In fact, that means nothing at all!{w} Couldn't they have power lines even in hell?"
+    "W rzeczywistości to nic nie znaczy!{w} Nie mogliby mieć linii energetycznych nawet w piekle?"
 
 
 translate polish day1_fbe4386c:
 
 
-    "Roasting sinners over hot coals? That's so last-century..."
+    "Pieczenie grzeszników nad gorącymi węglami? To takie staroświeckie..."
 
 
 translate polish day1_c88e5ea3:
 
 
-    "I must have reached the point of no return, after which you should either lose your mind completely or finally try to understand what is going on."
+    "Musiałem dojść do punktu bez powrotu, po którym powinienem albo całkowicie stracić rozum, albo w końcu spróbować zrozumieć, co się dzieje."
 
 
 translate polish day1_3cbef58c:
 
 
-    th "And while I still have a choice, I should pick the second option!"
+    th "I chociaż wciąż mam wybór, powinienem wybrać drugą opcję!"
 
 
 translate polish day1_28b9b20f:
 
 
-    "I slowly headed back to the bus."
+    "Powoli skierowałem się z powrotem do autobusu."
 
 
 translate polish day1_9aeca35d:
 
 
-    th "Of course it was scary."
+    th "Oczywiście to było przerażające."
 
 
 translate polish day1_d5a8e5e1:
 
 
-    th "But I'm not likely to find an answer in the fields or the woods, and this wretched bucket of bolts is the only kind of link that I have with the real world."
+    th "Ale raczej nie znajdę odpowiedzi na polach lub w lesie, a ta nieszczęsna blaszana puszka to jedyny rodzaj połączenia, jaki mam ze światem rzeczywistym."
 
 
 translate polish day1_a20cefa7_2:
@@ -380,43 +380,43 @@ translate polish day1_a20cefa7_2:
 translate polish day1_001631c6:
 
 
-    th "I should carefully scout the area."
+    th "Powinienem dokładnie zbadać okolicę."
 
 
 translate polish day1_3e09185c:
 
 
-    "A brick wall and its gates crowned with a 'Sovyonok' sign, statues of pioneers standing on either side, and a road sign nearby showing the bus route number: '410'."
+    "Ceglany mur i jego brama zwieńczona znakiem „Sovyonok”, posągi pionierów stojące po obu stronach oraz znak drogowy w pobliżu wskazujący numer trasy autobusu: „410”."
 
 
 translate polish day1_59b146e5:
 
 
-    me "The trip's taking a bit too long today."
+    me "Ta podróż trwa dziś trochę za długo."
 
 
 translate polish day1_e98bfbde:
 
 
-    "I smirked."
+    "Uśmiechnąłem się."
 
 
 translate polish day1_0fa2263b:
 
 
-    "A person may start acting inappropriately in extreme situations."
+    "Ludzie mogą zacząć działać niewłaściwie w ekstremalnych sytuacjach."
 
 
 translate polish day1_db78176c:
 
 
-    th "Something like that is probably happening to me now."
+    th "Coś takiego prawdopodobnie mi się teraz przydarza."
 
 
 translate polish day1_95a9a169:
 
 
-    "This place didn't look abandoned at all – no rust on the gates, no damage to the walls."
+    "To miejsce wcale nie wygląda na opuszczone - brak rdzy na bramie, brak uszkodzeń ścian."
 
 
 translate polish day1_3ba35159:
@@ -428,115 +428,115 @@ translate polish day1_3ba35159:
 translate polish day1_33b4e80e:
 
 
-    th "What could have a name like that?"
+    th "Co może mieć taką nazwę?"
 
 
 translate polish day1_94f91cd7:
 
 
-    th "Judging by the pioneer statues, it could be a kids summer camp.{w} Moreover, it appears to be open!"
+    th "Sądząc po posągach pionierów, może to być letni obóz dla dzieci.{w} Co więcej, wydaje się być otwarty!"
 
 
 translate polish day1_deb4632a:
 
 
-    th "Of course, the simplest explanation, logically speaking, explains nothing at all."
+    th "Oczywiście najprostsze wyjaśnienie, logicznie rzecz biorąc, w ogóle nic nie wyjaśnia."
 
 
 translate polish day1_b987229b:
 
 
-    th "The strange girl, the altered bus, summer, the pioneer camp..."
+    th "Dziwna dziewczyna, odmieniony autobus, lato, obóz pionierski..."
 
 
 translate polish day1_33930872:
 
 
-    "Thousands of theories went through my mind instantly: from alien abduction to lethargic sleep, from a hallucination to a time and space shift..."
+    "Tysiące teorii natychmiast przeszło mi przez głowę: od uprowadzeń przez kosmitów po letarg senny, od halucynacji po przesunięcie czasu i przestrzeni..."
 
 
 translate polish day1_d28308d8:
 
 
-    "None was worse than any other, but there was really no way to pick a single one."
+    "Żadna nie była gorsza od innych, ale tak naprawdę nie było sposobu, aby wybrać jedną."
 
 
 translate polish day1_c83682b4:
 
 
-    "Then it occurred to me - I can try to make a phone call!"
+    "Potem przyszło mi do głowy - mogę spróbować wykonać telefon!"
 
 
 translate polish day1_30421d7d:
 
 
-    "I took out my cellphone and dialed the first number from my contact list."
+    "Wyjąłem telefon i wybrałem pierwszy numer z listy kontaktów."
 
 
 translate polish day1_a5e58fe8:
 
 
-    "But instead of signal strength bars, the screen was showing a thick cross."
+    "Ale zamiast słupków siły sygnału ekran pokazywał gruby krzyż."
 
 
 translate polish day1_19146449:
 
 
-    th "Alright, there may be no signal in such a remote place."
+    th "W porządku, w tak odległym miejscu może nie być sygnału."
 
 
 translate polish day1_0d3882c7:
 
 
-    th "Though I cannot be the only one who came here!"
+    th "Chociaż nie mogę być jedynym, który tu przybył!"
 
 
 translate polish day1_c52f433f:
 
 
-    th "Buses don't drive themselves!"
+    th "Autobusy same nie jeżdżą!"
 
 
 translate polish day1_9191dff2:
 
 
-    "I examined the bus from all sides to make sure that it wasn't a hallucination."
+    "Obejrzałem autobus ze wszystkich stron, aby upewnić się, że nie jest to halucynacja."
 
 
 translate polish day1_841adb1f:
 
 
-    "Bits of dirt on the bottom, some rust here and there, faded paint and worn out tires- no, this is definitely a very ordinary Icarus."
+    "Kawałki brudu na dole, trochę rdzy tu i ówdzie, wyblakła farba i zużyte opony - nie, to zdecydowanie bardzo zwyczajny Icarus."
 
 
 translate polish day1_6109f212:
 
 
-    th "Yeah, exactly the kind of bus which takes you to places beyond your understanding if you carelessly fall asleep."
+    th "Tia, dokładnie taki rodzaj autobusu, który zabierze cię do miejsc poza twoim zasięgiem, jeśli beztrosko zaśniesz."
 
 
 translate polish day1_0343ddfb:
 
 
-    "I gave a nervous chuckle."
+    "Zachichotałem nerwowo."
 
 
 translate polish day1_d4028078:
 
 
-    "It came out by itself, sporadically.{w} Because this wasn't the right place or time to laugh..."
+    "Tylko przez chwilę.{w} Ponieważ to nie było właściwe miejsce ani czas na śmiech..."
 
 
 translate polish day1_17403436:
 
 
-    th "But where on earth is the driver?"
+    th "Ale gdzie do diabła jest kierowca?"
 
 
 translate polish day1_7530ded5:
 
 
-    "I cautiously sat down on the kerb beside the bus and started to wait."
+    "Ostrożnie usiadłem na krawężniku obok autobusu i zacząłem czekać."
 
 
 translate polish day1_a20cefa7_3:
@@ -548,85 +548,85 @@ translate polish day1_a20cefa7_3:
 translate polish day1_4bc2caf0:
 
 
-    "My patience didn't last long."
+    "Moja cierpliwość nie trwała długo."
 
 
 translate polish day1_ede35d71:
 
 
-    "My anxiety seemed to have reached its peak, and I started to go slightly mad."
+    "Mój niepokój najwyraźniej osiągnął swój szczyt i zacząłem lekko szaleć."
 
 
 translate polish day1_c8bc0b5a:
 
 
-    "In such a situation, anyone would have probably felt something similar."
+    "W takiej sytuacji każdy prawdopodobnie czułby coś podobnego."
 
 
 translate polish day1_0b02c10b:
 
 
-    "Aliens and parallel universes were gone from my imagination, leaving only void and darkness."
+    "Obcy i równoległe wszechświaty zniknęły z mojej wyobraźni, pozostawiając jedynie pustkę i ciemność."
 
 
 translate polish day1_33b8346c:
 
 
-    th "Is this how everything will end? How {i}my life{/i} will end?"
+    th "Czy tak to wszystko się skończy? Tak skończy się {i}moje życie{/i}?"
 
 
 translate polish day1_0818ff10:
 
 
-    th "But I wanted to do so much, there were so many things that I had no time for yet..."
+    th "A chciałem zrobić tak wiele, było tak wiele rzeczy, na które nie miałem jeszcze czasu..."
 
 
 translate polish day1_405f9fbf:
 
 
-    "I was overwhelmed by the idea, this was definitely the end."
+    "Byłem przytłoczony myślą, że to zdecydowanie był koniec."
 
 
 translate polish day1_97d1733b:
 
 
-    th "But why?!"
+    th "Ale dlaczego?!"
 
 
 translate polish day1_6e7e69ad:
 
 
-    th "It's not fair! Surely I'm no worse than anyone else!"
+    th "To niesprawiedliwe! Na pewno nie jestem gorszy niż ktokolwiek inny!"
 
 
 translate polish day1_a72fb0ee:
 
 
-    th "God, why...?"
+    th "Boże, dlaczego...?"
 
 
 translate polish day1_69065e88:
 
 
-    "Tears were burning my eyes unbearably, I curled up and started rolling in the grass."
+    "Łzy nieznośnie paliły moje oczy, więc zwinąłem się i zacząłem tarzać się po trawie."
 
 
 translate polish day1_4629954b:
 
 
-    me "WHY?! WHAT DID I DO?! WHY ME?!"
+    me "DLACZEGO?! CO JA ZROBIŁEM?! DLACZEGO JA?!"
 
 
 translate polish day1_6f37277c:
 
 
-    "But my cries were only heard by the speechless statues of the pioneers and a bird on a tree, which immediately flapped its wings and took off, crying out something in its own bird language, as if laughing at the idiot who dared to interrupt its after-dinner nap."
+    "Ale moje krzyki usłyszały tylko nieme posągi pionierów i ptak na drzewie, który natychmiast zatrzepotał skrzydłami i oderwał się, wołając coś w swoim własnym ptasim języku, jakby śmiejąc się z idioty, który odważył się przerwać jego obiadową drzemkę."
 
 
 translate polish day1_893c0214:
 
 
-    "I was left breathless from weeping and just lay quietly, sobbing occasionally"
+    "Zostałem pozbawiony tchu od płaczu i po prostu leżałem spokojnie, od czasu do czasu szlochając."
 
 
 translate polish day1_a20cefa7_4:
@@ -638,517 +638,517 @@ translate polish day1_a20cefa7_4:
 translate polish day1_1b527b73:
 
 
-    "After a while I managed to pull myself together."
+    "Po chwili udało mi się zebrać do kupy."
 
 
 translate polish day1_659aa794:
 
 
-    "My mind cleared up a bit, as if terror and the fear of death gave me a little break."
+    "Mój umysł trochę się oczyścił, jakby przerażenie i strach przed śmiercią dały mi małą przerwę."
 
 
 translate polish day1_dba992b6:
 
 
-    th "All in all, if someone wanted to kill me, what is all this for?"
+    th "W sumie, jeśli ktoś chciał mnie zabić, to po co to wszystko?"
 
 
 translate polish day1_1a34ee7c:
 
 
-    th "It doesn't look like an experiment either."
+    th "Nie wygląda to też jak eksperyment."
 
 
 translate polish day1_56b2c610:
 
 
-    th "If this is just some crazy coincidence then there's probably no threat."
+    th "Jeśli to tylko jakiś szalony zbieg okoliczności, to prawdopodobnie nie ma żadnego zagrożenia."
 
 
 translate polish day1_cc407c1e:
 
 
-    th "Anyway, for now it seems there's no danger."
+    th " Tak czy inaczej, na razie wygląda na to, że nie ma niebezpieczeństwa."
 
 
 translate polish day1_35abcf62:
 
 
-    "The panic was soon gone."
+    "Panika wkrótce zniknęła."
 
 
 translate polish day1_bbe3feaf:
 
 
-    "Of course, the blood was still pounding in my temples, and my hands were still shaking, but at least I could think clearly now."
+    "Oczywiście krew wciąż waliła mi w skroniach, a ręce wciąż się trzęsły, ale przynajmniej teraz mogłem myśleć jasno."
 
 
 translate polish day1_007b1ddb:
 
 
-    th "Right now, there is nothing I can really change anyway!{w} So no matter how much I think or how mad I get, it would only make things worse."
+    th "W tej chwili i tak nic nie mogę zmienić!{w} Więc bez względu na to, ilę myślę i się wściekam, tylko pogorszy to sytuację."
 
 
 translate polish day1_607957e4:
 
 
-    th "Until some actual facts appear, there is really no point in making guesses."
+    th "Dopóki nie pojawią się pewne fakty, to nie ma sensu zgadywać."
 
 
 translate polish day1_cea13f7e:
 
 
-    th "In any case, I won't learn anything by lounging about here."
+    th "W każdym razie niczego się nie dowiem, leniuchując tutaj."
 
 
 translate polish day1_f68fbb50:
 
 
-    "This camp (if, of course, it is really a camp) looked like the only place where people could be, so I decided to go there, and hardly had I reached the gates when..."
+    "Ten obóz (oczywiście, jeśli to naprawdę obóz) wyglądał jak jedyne miejsce, w którym mogliby być ludzie, więc postanowiłem tam pójść i ledwie dotarłem do bramy..."
 
 
 translate polish day1_cb43b355:
 
 
-    "A girl came out from behind them..."
+    "Dziewczyna wyszła zza niej..."
 
 
 translate polish day1_c9771ed6:
 
 
-    "... wearing a pioneer uniform."
+    "... ubrana w pionierski mundur."
 
 
 translate polish day1_76dc3c1c:
 
 
-    th "My logic didn’t let me down this time."
+    th "Tym razem moja logika mnie nie zawiodła."
 
 
 translate polish day1_c454f340:
 
 
-    th "Then again, a pioneer uniform in the 21st century..."
+    th "Z drugiej strony pionierski mundur w XXI wieku..."
 
 
 translate polish day1_55a53f71:
 
 
-    th "And then again, a girl {i}here{/i}..."
+    th "I znowu, dziewczyna {i}tutaj{/i}..."
 
 
 translate polish day1_a0dd748b:
 
 
-    "I froze, unable to take a step."
+    "Zamarłem, nie mogąc zrobić kroku."
 
 
 translate polish day1_888fb514:
 
 
-    "I felt very much like running away.{w} Running as far away as I could from this place, far from this bus, gates, statues and far from this bloody bird with its siesta."
+    "Bardzo chciałem uciec.{w} Uciec jak najdalej od tego miejsca, daleko od autobusu, bramy, posągów i daleko od tego cholernego ptaka z jego siestą."
 
 
 translate polish day1_1a518774:
 
 
-    "Just running, free like the wind, faster and faster, waving to the planets passing by, winking at the galaxies."
+    "Po prostu biegnąc, wolny jak wiatr, coraz szybciej i szybciej, machając do przelatujących planet, puszczając oko do galaktyk."
 
 
 translate polish day1_8abc0b99:
 
 
-    "Running, becoming a pulsar ray, and turning into vestigial radiation, running to face the unknown."
+    "Biec, stając się promieniem pulsacyjnym i zamieniając się w promieniowanie szczątkowe, biec stawić twarz nieznanemu."
 
 
 translate polish day1_b53ca9d4:
 
 
-    "Run no matter where, as long as it is {b}far away{/b} from this place!"
+    "Biec nieważne gdzie, dopóki jest {b}daleko{/b} od tego miejsca!"
 
 
 translate polish day1_d158f7e2:
 
 
-    "Meanwhile, the girl came closer and smiled."
+    "Tymczasem dziewczyna podeszła bliżej i uśmiechnęła się."
 
 
 translate polish day1_3fbcaafd:
 
 
-    "I could not help but notice her beauty, even though I was trembling with fear."
+    "Nie mogłem powstrzymać się od zauważenia jej piękna, mimo że drżałem ze strachu."
 
 
 translate polish day1_01e37be4:
 
 
-    "Human instincts work independant of consciousness, and while only 5%% of the brain is responsible for cognitive processes, the remaining 95%% are always busy sustaining {i}life{/i}, and in particular, ensuring stable functioning of the hormonal system."
+    "Instynkty ludzkie działają niezależnie od świadomości i podczas gdy tylko 5%% mózgu jest odpowiedzialne za procesy poznawcze, pozostałe 95%% jest zawsze zajęte podtrzymywaniem {i}życia{/i}, a w szczególności zapewnianiem stabilnego funkcjonowania systemu hormonalnego."
 
 
 translate polish day1_b619432f:
 
 
-    "I desperately wanted to get less complicated, and stop thinking in formal quotes from an encyclopedia, though my thoughts appeared one by one, being stupid, out of place, as if taken from an internal monologue of the hero of some junky softcover crime fiction book."
+    "Desperacko pragnąłem mniej komplikować i przestać myśleć w formalnych cytatach z encyklopedii, choć moje myśli pojawiały się jeden po drugim, będąc głupimi, nie na miejscu, jakby wzięte z wewnętrznego monologu bohatera jakiejś śmieciowej książki kryminalnej w miękkiej okładce."
 
 
 translate polish day1_159ede02:
 
 
-    "A pretty slavic face, long braids that looked like two armfuls of fresh hay, and blue eyes you could drown in."
+    "Ładna słowiańska twarz, długie warkocze, które wyglądały jak dwa snopki ze świeżego siana, i niebieskie oczy, w których można było się utopić."
 
 
 translate polish day1_ebdc09cc:
 
 
-    slp "Hi, you must have just arrived?"
+    slp "Cześć, musiałeś właśnie przyjechać?"
 
 
 translate polish day1_a009dbf2:
 
 
-    "I was frozen in astonishment."
+    "Osłupiałem ze zdumienia."
 
 
 translate polish day1_b5aec161:
 
 
-    "The girl looked perfectly normal, just like an ordinary human, but I still could not utter a single word."
+    "Dziewczyna wyglądała zupełnie normalnie, jak zwykły człowiek, ale i tak nie mogłem wypowiedzieć ani jednego słowa."
 
 
 translate polish day1_fff6f9eb:
 
 
-    th "It's too late to run..."
+    th "Jest za późno na ucieczkę..."
 
 
 translate polish day1_880e4e10:
 
 
-    slp "Did I say something wrong?"
+    slp "Czy powiedziałam coś złego?"
 
 
 translate polish day1_06176d1f:
 
 
-    "It took a monumental effort to answer:"
+    "Potrzeba było monstrualnego wysiłku, aby odpowiedzieć:"
 
 
 translate polish day1_13317d7b:
 
 
-    me "Uhm... yeah..."
+    me "Uhm... ta..."
 
 
 translate polish day1_c44cb8e0:
 
 
-    slp "What?"
+    slp "Co?"
 
 
 translate polish day1_d51bc1bf:
 
 
-    me "Oh, nothing, I mean I've {i}just arrived{/i}."
+    me "Oh, nic, chodzi mi o to, że {i}dopiero co przyjechałem{/i}."
 
 
 translate polish day1_c0a65fae:
 
 
-    "I replied quickly, beginning to worry that I might have blurted out something wrong."
+    "Odpowiedziałem szybko, zaczynając się martwić, że to ja powiedziałem coś nie tak."
 
 
 translate polish day1_13317d7b_1:
 
 
-    me "Uhm... yeah..."
+    me "Uhm... tia..."
 
 
 translate polish day1_3c13f21e:
 
 
-    slp "All right then, welcome!"
+    slp "Dobrze więc, witaj!"
 
 
 translate polish day1_6d77584d:
 
 
-    "She smiled broadly."
+    "Uśmiechnęła się szeroko."
 
 
 translate polish day1_82d0a78d:
 
 
-    "Strange, it looked as if I had just a normal girl in front of me."
+    "Dziwne, wyglądało to tak, jakbym miał przed sobą normalną dziewczynę."
 
 
 translate polish day1_31e75c3d:
 
 
-    th "Bah, I shouldn't have returned here, the woods and fields seemed better..."
+    th "Eh, nie powinienem był tu wracać, lasy i pola wydawały się lepsze...."
 
 
 translate polish day1_c2c61eee:
 
 
-    th "But what shall I do next – try to speak with her as if she was a human, or run away, or what?"
+    th "Ale co mam robić dalej - próbować rozmawiać z nią jak z człowiekiem, albo uciekać, czy co?"
 
 
 translate polish day1_85e4f294:
 
 
-    "The blood was pumping unbearably in my head, tearing it apart from the inside; a little bit more and the poor pioneer girl would be splattered with the gruesome contents of my skull..."
+    "Krew tętniła mi nieznośnie w głowie, rozrywając ją od środka; trochę więcej i biedna pionierka byłaby obryzgana makabryczną zawartością mojej czaszki..."
 
 
 translate polish day1_26d0580a:
 
 
-    slp "What's so funny about that?"
+    slp "Co jest w tym takiego zabawnego?"
 
 
 translate polish day1_5b1e985b:
 
 
-    "The girl looked me over."
+    "Dziewczyna spojrzała na mnie."
 
 
 translate polish day1_632c64ff:
 
 
-    "It sent shivers down my spine, and my knees started to tremble."
+    "Wywołało to dreszcze w dół kręgosłupa, a kolana zaczęły drżeć."
 
 
 translate polish day1_fa942807:
 
 
-    me "N... nothing..."
+    me "N... nic..."
 
 
 translate polish day1_81fa1f0f:
 
 
-    slp "Great then."
+    slp "Zatem wspaniale."
 
 
 translate polish day1_35ff2f5f:
 
 
-    th "Great? What's so great about that?"
+    th "Wspaniale? Co jest w tym takiego wspaniałego?"
 
 
 translate polish day1_9d000438:
 
 
-    "Suddenly a thought crossed my mind: to hell with it all. Forget about the bus behind me, the fact that it was winter yesterday and summer today. I wanted to rip off my itchy sweater and just accept that all this is actually happening. Everything is as it should be, all this is for the best..."
+    "Nagle przyszła mi do głowy myśl: do diabła z tym wszystkim. Zapomnij o autobusie za mną, o tym, że wczoraj była zima, a dziś lato. Chciałem zerwać swędzący sweter i po prostu zaakceptować, że to wszystko dzieje się naprawdę. Wszystko jest tak, jak powinno być, wszystko to dla dobra..."
 
 
 translate polish day1_1ab1c37a:
 
 
-    me "Would you happen to know...?"
+    me "Czy przypadkiem nie wiesz...?"
 
 
 translate polish day1_d0ebceb7:
 
 
-    slp "You should go to our camp leader, she'll tell you everything!"
+    slp "Powinieneś udać się do kierowniczki naszego obozu, ona wszystko ci powie!"
 
 
 translate polish day1_3399b38f:
 
 
-    slp "Look.{w} You go straight ahead to the square, then turn left. You'll see several small cabins."
+    slp "Spójrz.{w} Idziesz prosto na plac, a potem skręcasz w lewo. Zobaczysz kilka małych kabin."
 
 
 translate polish day1_f40c35be:
 
 
-    "She pointed at the gates, as if I knew what was behind them."
+    "Wskazała na bramę, jakby wiedziała, co za nią jest."
 
 
 translate polish day1_54f0a60f:
 
 
-    slp "Well, you can ask someone where Olga Dmitrievna's cabin is."
+    slp "Cóż, zawsze możesz zapytać kogoś, gdzie jest kabina Olgi Dmitrievny."
 
 
 translate polish day1_17993887:
 
 
-    me "I… erm…"
+    me "Ja… erm…"
 
 
 translate polish day1_81c28b1c:
 
 
-    slp "Got it?"
+    slp "Łapiesz?"
 
 
 translate polish day1_a1e6972e:
 
 
-    "Of course I didn't."
+    "Oczywiście, że nie."
 
 
 translate polish day1_2f0e0a31:
 
 
-    slp "Well, I've got to go now."
+    slp "Cóż, muszę już iść."
 
 
 translate polish day1_77cc4ba5:
 
 
-    "The girl waved her hand at me and disappeared through the gates."
+    "Dziewczyna pomachała do mnie ręką i zniknęła za bramą."
 
 
 translate polish day1_bc447943:
 
 
-    "It seemed as if to her, I was something...{w} ordinary."
+    "Wydawało się, że byłem dla niej czymś...{w} zwyczajnym."
 
 
 translate polish day1_07ef85cb:
 
 
-    "And all this show with the bus and the travels while awake or asleep were troubling only to me, while everything here is just the way it is supposed to be."
+    "A cały ten pokaz z autobusem i podróżowaniem na jawie czy podczas snu martwił tylko mnie, podczas gdy wszystko tutaj jest po prostu tak jak być powinno."
 
 
 translate polish day1_2d3f952e:
 
 
-    th "Camp leader, pioneer uniform…"
+    th "Lider obozu, pionierski mundur…"
 
 
 translate polish day1_cf1c4a81:
 
 
-    th "What, are they doing a historical reenactment here?"
+    th "Czy robią tu historyczną inscenizację?"
 
 
 translate polish day1_bce4a681:
 
 
-    th "I hope I won't find Lenin standing atop an armored car in this square."
+    th "Mam nadzieję, że nie znajdę na tym placu Lenina stojącego na szczycie pancernego samochodu."
 
 
 translate polish day1_1b36af68:
 
 
-    th "But even that would not surprise me right now..."
+    th "Ale nawet to nie zdziwiłoby mnie w tej chwili..."
 
 
 translate polish day1_39014c31:
 
 
-    "After standing alone for a while, I headed into the camp."
+    "Po chwili samotnego stania, udałem się do obozu."
 
 
 translate polish day1_6f92edab:
 
 
-    "A mere 50 metres ahead a small one-storey house popped up on the left side.{w} The sign near the door said 'Clubs'."
+    'Zaledwie 50 metrów przede mną pojawił się mały parterowy domek po lewej stronie.{w} Tabliczka przy drzwiach zawierała napis "Kluby".'
 
 
 translate polish day1_b20957b2:
 
 
-    "I was about to come closer..."
+    "Miałem zamiar się zbliżyć..."
 
 
 translate polish day1_93faf713:
 
 
-    "When the door suddenly opened, and a short girl wearing a pioneer uniform came out."
+    "Kiedy nagle otworzyły się drzwi i pojawiła się nowa dziewczyna w pionierskim mundurze."
 
 
 translate polish day1_bc2ffd42:
 
 
-    "Her pretty face gave me the impression of one suffering for the fate of the whole of mankind with a truly universal sorrow."
+    "Jej piękna twarz sprawiła na mnie wrażenie niesionego żalu za los całej ludzkości z prawdziwą, uniwersalną melancholią."
 
 
 translate polish day1_5b8bfb48:
 
 
-    "As soon as she saw me the girl froze, as if frightened."
+    "Jak tylko dziewczyna mnie zobaczyła, zamarła, jakby przerażona."
 
 
 translate polish day1_82b60add:
 
 
-    "I froze too, considering what was the best to do – to approach first or wait until she showed some initiative.{w} Or maybe run away after all..."
+    "Ja też zamarłem, zastanawiając się, co najlepiej było zrobić - podejść pierwszy albo poczekać, aż wykaże się jakąś inicjatywą.{w} Albo może po prostu uciec..."
 
 
 translate polish day1_d6de2681:
 
 
-    "Although this last option was constantly being suggested only by my self-preservation instinct (at least that's what I'd like to believe)."
+    "Chociaż ta ostatnia opcja była stale sugerowana przez mój instynkt samozachowawczy (przynajmniej w to chciałbym wierzyć)."
 
 
 translate polish day1_2cebe5d7:
 
 
-    "Not the worst human instinct, but far from the most logical."
+    "Nie najgorszy ten instynkt ludzki, ale daleko mu do najbardziej logicznego."
 
 
 translate polish day1_63473f65:
 
 
-    "If this instinct played poker against deductive abilities, the outcome would be predetermined."
+    "Jeśli ten instynkt zagrałby w pokera przeciwko zdolnościom dedukcyjnym, wynik byłby z góry określony."
 
 
 translate polish day1_a971bc7a:
 
 
-    "And those deductive abilities (or at least their semblance) were hinting to me that there was no need to be afraid of this girl."
+    "A te zdolności dedukcyjne (a przynajmniej ich pozory) podpowiadały mi, że nie trzeba się bać tej dziewczyny."
 
 
 translate polish day1_9b858553:
 
 
-    "Suddenly somebody jumped out of nearby bushes."
+    "Nagle ktoś wyskoczył z pobliskich krzaków."
 
 
 translate polish day1_b978b533:
 
 
-    "A girl wearing a bright red T-Shirt with 'USSR' written on it."
+    'Dziewczyna w jasnoczerwonej koszulce z napisem "ZSRR".'
 
 
 translate polish day1_7ebe0cfb:
 
 
-    th "Such a perfect reproduction of the age."
+    th "Taka doskonała reprodukcja epoki."
 
 
 translate polish day1_42c9a02c:
 
 
-    "She looked quite short from a distance and was probably younger than both pioneer girls – the one at the gates and this girl at the door of the 'Clubs'."
+    'Wyglądała na dość niską z daleka i była prawdopodobnie młodsza od obu pionierek - od tej z bramy i tej u drzwi "Klubów".'
 
 
 translate polish day1_c52afe92:
 
 
-    "At last I decided to come closer, but the 'USSR' (as I called her in my mind) jumped towards the first girl and started telling her something while wildly waving her arms."
+    'W końcu postanowiłem się zbliżyć, ale "ZSRR" (jak ją nazwałem w mojej głowie) przyskoczyła do pierwszej dziewczyny i zaczęła jej coś mówić, machając dziko rękami.'
 
 
 translate polish day1_b63ce3ba:
 
 
-    "The other girl in turn seemed confused and lowered her gaze, remaining silent."
+    "Druga dziewczyna z kolei wydawała się zdezorientowana i opuściła wzrok, milcząc."
 
 
 translate polish day1_d44e3c53:
 
 
-    "I would have probably continued to observe their amusing dialogue, but the 'USSR' suddenly pulled something out of her pocket and started waving it in front of the first girl's face."
+    'Pewnie nadal obserwowałabym ich zabawny dialog, ale "ZSRR" nagle wyciągnęła coś z kieszeni i zaczęła machać tym przed pierwszą dziewczyną.'
 
 
 translate polish day1_258e8119:
 
 
-    "This {i}something{/i} turned out to be a grasshopper."
+    "Tym {i}czyś{/i} okazał się być konik polny."
 
 
 translate polish day1_ed6083c2:
@@ -1160,61 +1160,61 @@ translate polish day1_ed6083c2:
 translate polish day1_87779d4a:
 
 
-    "The first girl squealed."
+    "Pierwsza dziewczyna pisnęła."
 
 
 translate polish day1_f91880c6:
 
 
-    "She must not be too keen on insects, as she instantly rushed off towards the place where Lenin presumably made his speech about the workers' and peasants' revolution."
+    "Musiała być niezbyt zachwycona insektem, bo od razu ruszyła w stronę miejsca, w którym Lenin prawdopodobnie wygłosił mowę o rewolucji robotniczej i chłopskiej."
 
 
 translate polish day1_03448d77:
 
 
-    "That is to say, towards the square..."
+    "To znaczy, w kierunku placu..."
 
 
 translate polish day1_ebc4605c:
 
 
-    "The 'USSR' glanced at me, grinned playfully, and dashed after her."
+    '"ZSRR" spojrzała na mnie, uśmiechnęła się żartobliwie i rzuciła się za nią.'
 
 
 translate polish day1_38e92acb:
 
 
-    th "Not a bad start to the day."
+    th "Niezły początek dnia."
 
 
 translate polish day1_1c924fd9:
 
 
-    th "I have absolutely no clue where I am, besides that, there are some kids here roleplaying as pioneers."
+    th "Nie mam pojęcia, gdzie jestem, poza tym dlaczego jest tu kilka dzieciaków, które grają pionierów."
 
 
 translate polish day1_3f084620:
 
 
-    th "And, as far as I can tell, this place is located thousands of kilometres away from my home.{w} It might even be a different reality."
+    th "I z tego co wiem, to miejsce jest położone tysiące kilometrów od mojego domu.{w} To może być nawet inna rzeczywistość."
 
 
 translate polish day1_b8844662:
 
 
-    "And this was indeed a {i}reality{/i}..."
+    "I to była naprawdę {i}rzeczywistość{/i}..."
 
 
 translate polish day1_bd1b7173:
 
 
-    "I mean, everything around me seemed so real (if a little embellished) that I was starting to think that in fact my previous life could have been just a dream."
+    "To znaczy, wszystko wokół mnie wydawało się tak realne (choć trochę upiększone), że zacząłem myśleć, że w rzeczywistości moje poprzednie życie mogło być tylko snem."
 
 
 translate polish day1_947b07b9:
 
 
-    th "And what am I supposed to do now?"
+    th "I co powinnienem teraz zrobić?"
 
 
 translate polish day1_a20cefa7_5:
@@ -1226,127 +1226,127 @@ translate polish day1_a20cefa7_5:
 translate polish day1_a48ce857:
 
 
-    "I was picking at the cracked paving stones with my shoe and staring aimlessly at the 'Clubs' building."
+    'Kopałem butem popękane kostki brukowe i bezcelowo gapiłem się na budynek "Klubów".'
 
 
 translate polish day1_52f502cd:
 
 
-    th "Just few more seconds before I have to come up with some decision."
+    th "Jeszcze tylko kilka sekund, zanim będę musiał podjąć decyzję."
 
 
 translate polish day1_6f416834:
 
 
-    "That’s when I recalled myself rolling on the grass, weeping..."
+    "Wtedy przypomniałem sobie, że tarzam się po trawie, płaczę...."
 
 
 translate polish day1_487a7790:
 
 
-    "I cringed in disgust."
+    "Płaczę w obrzydzeniu."
 
 
 translate polish day1_34312b93:
 
 
-    "Perhaps it's another instinct: when all energy for whimpering and self-pitying is used up, the body either goes into hibernation or mobilises its reserves."
+    "Być może jest to kolejny instynkt: kiedy cała energia do jęczenia i użalania się nad sobą zostanie zużyta, ciało albo przechodzi w stan hibernacji, albo mobilizuje swoje rezerwy."
 
 
 translate polish day1_8ff0ae14:
 
 
-    "Mine seemed to have chosen the second option, because out of the blue, I found the determination to figure out what was going on."
+    "Wydawało mi się, że mój organizm wybrał drugą opcję, ponieważ z nieba znalazłem determinację, aby dowiedzieć się, co się dzieje."
 
 
 translate polish day1_6aea12ff:
 
 
-    "And in order to do that, I had to act like a man – like a human: to maintain the dignity of a representative of {i}my own world{/i}."
+    "I aby to zrobić, musiałem zachowywać się jak człowiek - jak człowiek: zachować godność przedstawiciela {i}mojego własnego świata{/i}."
 
 
 translate polish day1_267d5adc:
 
 
-    "I followed the path to the left, on the right side of which stood small cabins, apparently the homes of the local pioneers."
+    "Podążyłem ścieżką w lewo, po prawej stronie której stały małe domki, najwyraźniej domy lokalnych pionierów."
 
 
 translate polish day1_772090f6:
 
 
-    "Actually, they looked quite cozy from the outside."
+    "Właściwie, to wyglądały całkiem przytulnie z zewnątrz."
 
 
 translate polish day1_5ff36d96:
 
 
-    "Even though I was born in the Soviet Union, I had never been part of its childrens organisations, neither the Pioneers nor even the younger October Children."
+    "Chociaż urodziłem się w Związku Radzieckim, nigdy nie byłem częścią jego organizacji dziecięcych, ani Pionierów, ani nawet młodszych Październikowych Dzieci."
 
 
 translate polish day1_d869f630:
 
 
-    "I imagined the daily life of a typical pioneer camp a bit differently: huge barracks with long rows of metal bunks, wake-up call at six o'clock played by a siren, one minute to make your bed, then joining the formation at the drill square..."
+    "Wyobrażałem sobie codzienne życie typowego obozu pionierów nieco inaczej: ogromne baraki z długimi rzędami metalowych pryczy, budzenie wywoływane przez syrenę o szóstej, minuta na ścielenie, potem dołączanie do formacji na placu ćwiczeń..."
 
 
 translate polish day1_3a1335b5:
 
 
-    th "Or wait!{w} Could I be confusing it with something else...?"
+    th "Albo poczekaj!{w} Czy mogę pomylić to z czymś innym...?"
 
 
 translate polish day1_9eee971e:
 
 
-    "Suddenly something struck me on the back!"
+    "Nagle coś uderzyło mnie w plecy!"
 
 
 translate polish day1_bb359f8d:
 
 
-    "I staggered but remained on my feet, turned around and prepared to fight heroically for my life..."
+    "Zatoczyłem się, ale pozostałem na nogach, odwróciłem się i przygotowałem do heroicznej walki o moje życie..."
 
 
 translate polish day1_57666fa8:
 
 
-    "But all I found was another girl standing before me."
+    "Ale wszystko co zastałem przede mną to kolejna dziewczyna."
 
 
 translate polish day1_ee51804d:
 
 
-    "My mouth hung open in surprise."
+    "Moje usta otworzyły się z zaskoczenia."
 
 
 translate polish day1_68b22888:
 
 
-    dvp "Pick your jaw up off the ground."
+    dvp "Podnieś szczękę z parteru."
 
 
 translate polish day1_143f62c0:
 
 
-    "I closed my mouth."
+    "Zamknąłem usta."
 
 
 translate polish day1_c1b4c8b4:
 
 
-    "The same pioneer uniform, but the way she was wearing it looked, let’s say, provocative."
+    "Ten sam pionierski mundur, ale sposób w jaki go nosiła wyglądał, powiedzmy, prowokująco."
 
 
 translate polish day1_f689de87:
 
 
-    "Like all the girls I had met here before, this one was rather cute, but her overly arrogant expression killed any desire to get to know her better."
+    "Jak wszystkie dziewczyny, które tu wcześniej spotkałem, ta była raczej urocza, ale jej nadmiernie arogancki wyraz twarzy zabijał wszelkie pragnienia, by lepiej ją poznać."
 
 
 translate polish day1_5ecab483:
 
 
-    dvp "New here, are you?"
+    dvp "Jesteś tu nowy, prawda?"
 
 
 translate polish day1_51149e68:
@@ -1358,601 +1358,601 @@ translate polish day1_51149e68:
 translate polish day1_dc8deb21:
 
 
-    dvp "Fine, see ya!"
+    dvp "Dobra, do zobaczenia!"
 
 
 translate polish day1_df07b66c:
 
 
-    "She threw a threatening glance at me and walked past."
+    "Rzuciła na mnie groźne spojrzenie i przeszła obok."
 
 
 translate polish day1_be998354:
 
 
-    "I waited for the pioneer girl to turn at the corner...{w} Who knows what else she might have been up to!"
+    "Czekałem, aż pionierka skręci za róg... {w} Kto wie, co jeszcze mogła zrobić!"
 
 
 translate polish day1_310f2718:
 
 
-    "The most interesting thing was that even this hostile girl seemed completely normal to me, she did not give off the feeling of some deadly danger."
+    "Najciekawsze było to, że nawet ta złowroga dziewczyna wydawała mi się zupełnie normalna, nie dawała poczucia jakiegoś śmiertelnego zagrożenia."
 
 
 translate polish day1_dbdad37c:
 
 
-    "Except maybe the danger of getting punched in the nose."
+    "Może poza niebezpieczeństwem uderzenia w nos."
 
 
 translate polish day1_78546616:
 
 
-    "At last, I managed to make it to the square."
+    "W końcu udało mi się dotrzeć na plac."
 
 
 translate polish day1_79587a2a:
 
 
-    "There was no Lenin on an armoured car, although one could easily expect something like that after all this had happened."
+    "Nie było ani Lenina, ani samochodu pancernego, chociaż można było się łatwo spodziewać czegoś takiego po tym wszystkim co się stało."
 
 
 translate polish day1_b624fcdd:
 
 
-    "Instead, however, a monument to a certain comrade towered in the middle of the square. The letters on the pedestal read 'GENDA'."
+    'Zamiast tego jednak na środku placu stoł pomnik pewnego towarzysza. Litery na cokole układały się w napis "GENDA".'
 
 
 translate polish day1_4f2ef086:
 
 
-    th "Must be some big figure in the Party."
+    th "To musi być jakaś wielka postać w Partii."
 
 
 translate polish day1_2f3a0b1e:
 
 
-    "There were some small benches at the sides."
+    "Po bokach było kilka małych ławeczek."
 
 
 translate polish day1_f324eeda:
 
 
-    th "It's quite pleasant here."
+    th "Całkiem tu przyjemnie."
 
 
 translate polish day1_9d30be31:
 
 
-    th "Where did that girl tell me to go?{w} To the left or to the right?"
+    th "Gdzie ta dziewczyna powiedziała mi, żebym poszedł?{w} Na lewo czy na prawo?"
 
 
 translate polish day1_c6de1218:
 
 
-    th "To the left, to the right, to the left, to the right…"
+    th "Na lewo, na prawo, na lewo, na prawo…"
 
 
 translate polish day1_58ada7be:
 
 
-    th "And why am I going there anyway...?"
+    th "I dlaczego tak wogóle tam idę...?"
 
 
 translate polish day1_bd699a39:
 
 
-    th "Ah, right, I've decided to pretend to be normal..."
+    th "Ah, racja, zdecydowałem się udawać, że jestem normalny..."
 
 
 translate polish day1_833eb5f3:
 
 
-    th "So, to the right!"
+    th "Więc, w prawo!"
 
 
 translate polish day1_4870b408:
 
 
-    "Through a small grove..."
+    "Przez mały gaj..."
 
 
 translate polish day1_be1bac02:
 
 
-    "I came out at a pier."
+    "Wyszedłem na molo."
 
 
 translate polish day1_66caa1a6:
 
 
-    th "I must have taken a wrong turn."
+    th "Musiałem źle skręcić."
 
 
 translate polish day1_a02d94f5:
 
 
-    slp "Hey, wrong way!"
+    slp "Hej, zła droga!"
 
 
 translate polish day1_0a8fd9cf:
 
 
-    "I turned towards the voice."
+    "Zwróciłem się w stronę głosu."
 
 
 translate polish day1_ea065f04:
 
 
-    "That first girl stood before me."
+    "Ta pierwsza dziewczyna stanęła przede mną."
 
 
 translate polish day1_4725a971:
 
 
-    slp "Now what did I tell you? Take a left at the square, wasn't it?"
+    slp "Co ja ci mówiłam? Skręć w lewo na placu, czyż nie?"
 
 
 translate polish day1_59abc400:
 
 
-    "She had changed from her pioneer uniform into a bikini."
+    "Zmieniła swój pionierski mundur na bikini."
 
 
 translate polish day1_e85f6b79:
 
 
-    slp "Oh, I still haven't introduced myself!{w} My name is Slavya!"
+    slp "Ah, dalej się nie przedstawiłam!{w} Nazywam się Slavya!"
 
 
 translate polish day1_2fa68520:
 
 
-    slp "Actually, my full name's Slavyana, but everyone calls me Slavya.{w} So you can too!"
+    slp "Właściwie, to moje pełne imię brzmi Slavyana, ale wszyscy mówią mi Slavya.{w} Więc ty też możesz!"
 
 
 translate polish day1_6e37a835:
 
 
-    me "Uhm... yeah..."
+    me "Uhm... tia..."
 
 
 translate polish day1_0cc735df:
 
 
-    "I still felt a bit confused, so I could not come up with more meaningful answers."
+    "Nadal czułem się trochę zdezorientowany, więc nie mogłem wymyślić bardziej sensownej odpowiedzi."
 
 
 translate polish day1_4c5321be:
 
 
-    sl "And what's your name?"
+    sl "A ty jak się nazywasz?"
 
 
 translate polish day1_c5787aa3:
 
 
-    "It felt like she could see right through me."
+    "Czułem się, jakby mogła przejrzeć mnie na wylot."
 
 
 translate polish day1_5cf26729:
 
 
-    me "Uhm... I... yeah... Semyon..."
+    me "Uhm... Ja... tia... Semyon..."
 
 
 translate polish day1_e2552123:
 
 
-    sl "Nice to meet you, Semyon."
+    sl "Miło cię poznać, Semyon."
 
 
 translate polish day1_a89521fc:
 
 
-    sl "All right, I'm almost done here.{w} Could you wait here a minute, I'm going to change and we'll go to Olga Dmitrievna together, agreed?"
+    sl "Dobra, już prawie skończyłam.{w} Możesz tu chwilkę poczekać, przebiorę się i pojedziemy do Olgi Dmitrievny razem, zgoda?"
 
 
 translate polish day1_65bf82fc:
 
 
-    me "Agreed..."
+    me "Zgoda..."
 
 
 translate polish day1_43560fad:
 
 
-    "After this exchange she ran off. I sat on the pier and let my feet hang into the water."
+    "Po tych słowach uciekła. Usiadłem na molo i pozwoliłem, by moje stopy zanurzyły się w wodzie."
 
 
 translate polish day1_90942777:
 
 
-    "I was wearing heavy winter boots, but in such weather there was nothing wrong in getting my feet wet."
+    "Miałem na sobie ciężkie zimowe buty, ale przy takiej pogodzie nie było nic złego w zamoczeniu stóp."
 
 
 translate polish day1_5c4ff44b:
 
 
-    "Furthermore, it let me cool myself a little."
+    "Co więcej, pozwoliło mi to trochę ochłonąć."
 
 
 translate polish day1_ea94e5d1:
 
 
-    "Looking at the river, I was brainstorming and processing everything that has happened."
+    "Patrząc na rzekę, robiłem burzę mózgów i przetwarzałem wszystko, co się stało."
 
 
 translate polish day1_24d93bb8:
 
 
-    th "If this is some kind of conspiracy, it's a weird one, even too friendly at times."
+    th "Jeśli to jakaś konspiracja, to dziwna, czasami nawet zbyt przyjazna."
 
 
 translate polish day1_5edac208:
 
 
-    th "No, it really looks more like a random event."
+    th "Nie, to naprawdę wygląda bardziej na przypadkowe zdarzenie."
 
 
 translate polish day1_044eac6b:
 
 
-    th "Some entirely incomprehensible random event."
+    th "Jakieś całkowicie niezrozumiałe zdarzenie losowe."
 
 
 translate polish day1_a733d584:
 
 
-    sl "Shall we go?"
+    sl "Możemy iść?"
 
 
 translate polish day1_3d8e6458:
 
 
-    "Slavya was standing beside me, dressed in the pioneer uniform again."
+    "Slavya stała obok mnie, znów ubrana w pionierski mundur."
 
 
 translate polish day1_85ccdc6d:
 
 
-    me "Let's go…"
+    me "Chodźmy…"
 
 
 translate polish day1_1ea0d875:
 
 
-    th "I've been here for a very short time, but of all the people I've met, she looks the least suspicious."
+    th "Jestem tu od bardzo krótkiego czasu, ale ze wszystkich ludzi, których spotkałem, ona wygląda najmniej podejrzanie."
 
 
 translate polish day1_efe66139:
 
 
-    th "However, this fact is already suspicious itself!"
+    th "Jednak sam w sobie ten fakt jest już podejrzany!"
 
 
 translate polish day1_b3e9120f:
 
 
-    "We walked to the square."
+    "Poszliśmy na plac."
 
 
 translate polish day1_73d6913a:
 
 
-    "The 'USSR' girl and the girl who hit me on the back were there, chasing each other."
+    'Dziewczyna "ZSRR" i dziewczyna, która uderzyła mnie w plecy, były tam i goniły się nawzajem.'
 
 
 translate polish day1_805a8066:
 
 
-    th "Is that some kind of game they’re playing?"
+    th "Czy to jakaś gra, w którą one grają?"
 
 
 translate polish day1_6c5b8d8e:
 
 
-    sl "Ulyana, enough running! I'll tell everything to Olga Dmitrievna!"
+    sl "Ulyana, dość biegania! Powiem wszystko Oldze Dmitrievnie!"
 
 
 translate polish day1_e2f0dae9:
 
 
-    us "Aye-aye, captain!"
+    us "Ta-jest, kapitanie!"
 
 
 translate polish day1_0bfd5bdf:
 
 
-    "I decided not to question Slavya for a while about what was going on or the local residents."
+    "Postanowiłem przez chwilę nie pytać Slavyi o to, co się dzieje, ani o miejscowych mieszkańcach."
 
 
 translate polish day1_5280f6b1:
 
 
-    th "Better meet with this mysterious Olga Dmtrievna first."
+    th "Lepiej najpierw spotkać się z tą tajemniczą Olgą Dmtrievną."
 
 
 translate polish day1_1cd246d8:
 
 
-    th "Sounds like she's the boss here."
+    th "Wygląda na to, że ona tu jest szefem."
 
 
 translate polish day1_3337c244:
 
 
-    "We walked past the rows of almost identical cabins, some of which looked like fat beer barrels, while others looked more like household sheds."
+    "Przechodziliśmy obok szeregów prawie identycznych kabin, niektóre z nich wyglądały jak tłuste beczki z piwem, inne bardziej jak przydomowe szopy."
 
 
 translate polish day1_598416c3:
 
 
-    "Finally, Slavya stopped in front of a smallish one-storey cabin."
+    "W końcu Slavya zatrzymała się przed najmniejszą - małą, jednopiętrową kabiną."
 
 
 translate polish day1_4ce282c2:
 
 
-    "It looked like an artist's painting: the faded paint, chipping here and there with age, was sparkling in the sun; the window shutters, slightly ajar, were swaying almost unnoticeably in the wind; and huge lilac bushes were growing at the sides."
+    "Wyglądało to jak obraz artysty: wyblakła farba, odpryskująca tu i ówdzie z wiekiem, lśniła w słońcu; okiennice, lekko uchylone, kołysały się prawie niezauważalnie na wietrze; a po bokach rosły ogromne liliowe krzewy."
 
 
 translate polish day1_9ba44673:
 
 
-    "It seemed as if this ramshackle hut was drowning in a storm of purple silk, and the lilacs, like some elemental force, were inexorably destroying the troop leader's house."
+    "Wyglądało to tak, jakby ta drobna chatka tonęła w burzy z fioletowego jedwabiu, a bzy, jak jakaś pierwotna siła, nieubłaganie niszczyły dom dowódcy oddziału."
 
 
 translate polish day1_3dc6042e:
 
 
-    sl "What are you standing around for? Let's go!"
+    sl "Na co czekasz? Chodźmy!"
 
 
 translate polish day1_cc0015de:
 
 
-    "Slavya snapped me out of my daydreaming."
+    "Slavya wyciągnęła mnie z moich marzeń."
 
 
 translate polish day1_25a8e409:
 
 
-    mt_voice "... and stop teasing Lena already..."
+    mt_voice "... i przestań dokuczać już Lenie..."
 
 
 translate polish day1_23aa893b:
 
 
-    "Rena?!"
+    "Renie?!"
 
 
 translate polish day1_368e2a32:
 
 
-    th "Sounds like there's someone inside."
+    th "Wygląda na to, że ktoś jest w środku."
 
 
 translate polish day1_42c5f640:
 
 
-    "Indeed, a moment later the door swung open, and Ulyana ran out and dashed past with the same mischievous grin."
+    "W istocie, chwilę później drzwi się otworzyły, a Ulyana wybiegła i przemknęła obok z tym samym złośliwym uśmiechem."
 
 
 translate polish day1_9b6e58bf:
 
 
-    "The pigtailed girl came out next."
+    "Dziewczyna z warkoczem wyszła następna."
 
 
 translate polish day1_01fca3c6:
 
 
-    sl "Don't let it bother you, Lena!"
+    sl "Nie przejmuj się tym, Lena!"
 
 
 translate polish day1_0d446d18:
 
 
-    th "So her name is Lena...{w} Gotta be thankful it's not Rena, at least!"
+    th "A więc ona ma na imię Lena...{w} Muszę być przynajmniej wdzięczny, że to nie jest Rena!"
 
 
 translate polish day1_92afc216:
 
 
-    un "But I don't..."
+    un "Ale ja nie..."
 
 
 translate polish day1_a3f0580d:
 
 
-    "Instead of finishing her sentence, she blushed and quickly headed towards the square."
+    "Zamiast skończyć zdanie, zarumieniła się i szybko skierowała się na plac."
 
 
 translate polish day1_a653101d:
 
 
-    "For some reason I felt like turning and following her with my eyes, but Slavya said:"
+    "Z jakiegoś powodu miałem ochotę odwrócić się i podążyć za nią oczami, ale Slavya powiedziała:"
 
 
 translate polish day1_84aaac50:
 
 
-    sl "Come."
+    sl "Chodź."
 
 
 translate polish day1_9e8e7cd3:
 
 
-    "We entered the cabin."
+    "Weszliśmy do kabiny."
 
 
 translate polish day1_4a8e191a:
 
 
-    "Inside it looked something similar to what I'd imagined: two beds, a table, a couple of chairs, a simple carpet on the floor, a wardrobe."
+    "Wewnątrz wyglądała podobnie jak ją sobie wyobrażałem: dwa łóżka, stolik, kilka krzeseł, garderoba, a na podłodze prosty dywan."
 
 
 translate polish day1_c87f01c5:
 
 
-    "Nothing special, but at the same time it felt homelike and cosy, although this room was almost in the same state of disorder as my own flat."
+    "Nic szczególnego, ale jednocześnie czułem się w nim przytulnie i jak w domu, chociaż ten pokój był prawie w tym samym stanie nieporządku co moje własne mieszkanie."
 
 
 translate polish day1_f9471bdb:
 
 
-    "The girl standing near the window appeared to be about twenty five years old."
+    "Dziewczyna stojąca przy oknie wydawała się mieć około dwudziestu pięciu lat."
 
 
 translate polish day1_1529b84e:
 
 
-    th "Nature had obviously gifted her with a pretty face and a good body..."
+    th "Natura oczywiście obdarzyła ją ładną twarzą i dobrym ciałem..."
 
 
 translate polish day1_0aa01509:
 
 
-    th "At least one thing can keep you happy in this pandemonium: the locals are beautiful."
+    th "Przynajmniej jedna rzecz może cię uszczęśliwić w tym pandemonium: miejscowe są piękne."
 
 
 translate polish day1_80b7fab7:
 
 
-    mtp "You're finally here!{w} Excellent!{w} My name is Olga Dmitrievna, I'm the camp leader."
+    mtp "W końcu tu jesteś!{w} Wspaniale!{w} Nazywam się Olga Dmitrievna, jestem kierownikiem obozu."
 
 
 translate polish day1_81f67e23:
 
 
-    me "Nice to meet you, I'm Semyon."
+    me "Miło mi cię poznać, jestem Semyon."
 
 
 translate polish day1_2a6869f0:
 
 
-    "I decided to talk as if I wasn't surprised by anything that was going on."
+    "Zdecydowałem się mówić tak, jakbym nie był zaskoczony tym, co się dzieje."
 
 
 translate polish day1_b93477a9:
 
 
-    "She came closer."
+    "Podeszła bliżej."
 
 
 translate polish day1_9a812b52:
 
 
-    mt "We've been expecting you since early morning."
+    mt "Spodziewaliśmy się ciebie od wczesnego ranka."
 
 
 translate polish day1_b7364cea:
 
 
-    me "You've been expecting me...?"
+    me "Spodziewaliście się mnie...?"
 
 
 translate polish day1_ca77693f:
 
 
-    mt "Yes, of course!"
+    mt "Tak, oczywiście!"
 
 
 translate polish day1_dda106bc:
 
 
-    me "And when does the next bus come, 'cause I... "
+    me "A kiedy przyjedzie następny autobus, bo ja... "
 
 
 translate polish day1_fec151d0:
 
 
-    mt "And why do you need it?"
+    mt "A po co ci on?"
 
 
 translate polish day1_8f1ac2ed:
 
 
-    th "Yeah, right, why would I need it...?"
+    th "Tak, jasne, po co mi on...?"
 
 
 translate polish day1_5a1280bd:
 
 
-    th "Guess I shouldn't ask direct questions: the people here may react to them quite unlike how I'd prefer."
+    th "Chyba nie powinienem zadawać bezpośrednich pytań: ludzie tutaj mogą reagować na nie zupełnie inaczej niż bym tego chciał."
 
 
 translate polish day1_79c3f7b2:
 
 
-    th "And I doubt I'd get any answers."
+    th "I wątpię, żebym dostał jakiekolwiek odpowiedzi."
 
 
 translate polish day1_8d50c9cf:
 
 
-    me "No reason, just curious..."
+    me "Nie ma powodu, tylko jestem ciekaw..."
 
 
 translate polish day1_1725efc3:
 
 
-    me "By the way, where are we exactly?{w} Our mailing address, I mean?"
+    me "Przy okazji, gdzie dokładnie jesteśmy?{w} To znaczy, nasz adres pocztowy?"
 
 
 translate polish day1_21adf436:
 
 
-    me "I wanted to send a letter to my parents to tell them I got here fine."
+    me "Chciałem wysłać list do rodziców, żeby powiedzieć im, że podróż przebiegła pomyślnie."
 
 
 translate polish day1_efb897d9:
 
 
-    "For some reason, I had the desperate idea that if I played along, I would find something out."
+    "Z jakiegoś powodu, miałem zdesperowany pomysł, że gdybym grał dalej, dowiedziałbym się czegoś."
 
 
 translate polish day1_5a58e925:
 
 
-    mt "Oh, but your parents called just half an hour ago! Sent their regards to you."
+    mt "Oh, ale twoi rodzice dzwonili zaledwie pół godziny temu! Przekazali ci swoje pozdrowienia."
 
 
 translate polish day1_41180a2e:
 
 
-    th "Now that's a surprise..."
+    th "Teraz to jest niespodzianka..."
 
 
 translate polish day1_350d74d5:
 
 
-    me "So, can I call them? 'Cause I forgot to tell them something before I left."
+    me "Więc, mogę do nich zadzwonić? Bo zapomniałem im coś powiedzieć przed wyjazdem."
 
 
 translate polish day1_44f6bf31:
 
 
-    mt "No."
+    mt "Nie."
 
 
 translate polish day1_9d48f5b9:
 
 
-    "She gave me a sweet, spontaneous smile."
+    "Posłała mi słodki, naturalny uśmiech."
 
 
 translate polish day1_9bddf507:
 
 
-    me "Why not?"
+    me "Dlaczego nie?"
 
 
 translate polish day1_c40fd752:
 
 
-    mt "We don't have a phone here."
+    mt "Nie mamy tutaj telefonu."
 
 
 translate polish day1_51149e68_1:
@@ -1964,133 +1964,133 @@ translate polish day1_51149e68_1:
 translate polish day1_729f518a:
 
 
-    me "Then how could my parents make a call to here?"
+    me "Więc jak moi rodzice mogli tutaj zadzwonić?"
 
 
 translate polish day1_120ecdbc:
 
 
-    mt "I've just come back from the district's central town, I talked with them there."
+    mt "Właśnie wróciłam z głównego miasta okręgu, gdzie z nimi rozmawiałam."
 
 
 translate polish day1_434cc4a4:
 
 
-    th "Ah, so that's how it is?"
+    th "Ah, więc tak?"
 
 
 translate polish day1_68be55cd:
 
 
-    me "And can I somehow get to the town?"
+    me "A czy mogę jakoś dostać się do miasta?"
 
 
 translate polish day1_44f6bf31_1:
 
 
-    mt "No."
+    mt "Nie."
 
 
 translate polish day1_89d38d04:
 
 
-    "She kept the same smile."
+    "Zachowała ten sam uśmiech."
 
 
 translate polish day1_5ac38cf1:
 
 
-    me "Why not?"
+    me "Dlaczego nie?"
 
 
 translate polish day1_06cd3c2d:
 
 
-    mt "Because the next bus only comes in a week."
+    mt "Bo następny autobus przyjeżdża dopiero za tydzień."
 
 
 translate polish day1_a3268632:
 
 
-    "I decided not to inquire how the troop leader managed to get there and back; I would get no answer anyway."
+    "Postanowiłem nie pytać, w jaki sposób dowódca oddziału zdołał się tam dostać i z powrotem, i tak nie otrzymałbym odpowiedzi."
 
 
 translate polish day1_bd84df53:
 
 
-    "All this time, Slavya was standing next to me and seemed to find nothing odd in our conversation."
+    "Przez cały ten czas, Slavya stała obok mnie i zdawała się nie znajdować nic dziwnego w naszej rozmowie."
 
 
 translate polish day1_869d68e4:
 
 
-    mt "Oh, we need to find a uniform for you!"
+    mt "Oh, musimy znaleźć dla ciebie mundur!"
 
 
 translate polish day1_75c6d686:
 
 
-    th "I've got absolutely no desire to put on pioneer shorts or to wear the ridiculous red neckerchief!"
+    th "Nie mam ochoty zakładać pionierskich szortów ani nosić śmiesznej czerwonej chusty!"
 
 
 translate polish day1_94a1d364:
 
 
-    th "However, wearing winter clothes in summer isn't a great idea either."
+    th "Jednak noszenie zimowych ubrań w lecie też nie jest dobrym pomysłem."
 
 
 translate polish day1_f4df3367:
 
 
-    me "Right, thank you…"
+    me "Dobrze, dziękuję…"
 
 
 translate polish day1_00ec5ab7:
 
 
-    th "I wonder if I'm the only one here who finds it strange that someone's wearing a coat and winter boots in such heat?"
+    th "Zastanawiam się, czy tylko mi się wydaje dziwne, że ktoś ma na sobie płaszcz i zimowe buty w takim upale?"
 
 
 translate polish day1_13e0bfb3:
 
 
-    mt "Righty-o, I'll be off then, and you can get yourself acquainted with the camp!{w} Don't forget to come to dinner in the evening!"
+    mt "W porządku, ja już sobie pójdę, a ty możesz się zapoznać z obozem!{w} Nie zapomnij przyjść wieczorem na kolację!"
 
 
 translate polish day1_8af1d414:
 
 
-    "Having said that, she walked out of the cabin."
+    "Powiedziawszy to, wyszła z kabiny."
 
 
 translate polish day1_3be70f85:
 
 
-    "No, 'walked' is not the right word- she rushed out."
+    'Nie, "wyszła" nie jest właściwym słowem. Wyskoczyła.'
 
 
 translate polish day1_733c1098:
 
 
-    "I ended up alone with Slavya."
+    "Skończyłem sam ze Slavyą."
 
 
 translate polish day1_4c0d1dce:
 
 
-    sl "I must go too, got things to do."
+    sl "Ja też muszę iść, mam sprawy do załatwienia."
 
 
 translate polish day1_0a470c4f:
 
 
-    sl "Take a walk, look around the camp a bit.{w} See you in the evening."
+    sl "Przejdź się, rozejrzyj się trochę po obozie.{w} Do zobaczenia wieczorem."
 
 
 translate polish day1_d47d9534:
 
 
-    th "If there is no threat or catch to this then this reality, as embodied by Slavya, becomes more and more appealing."
+    th "Jeśli naprawdę nie ma w tej rzeczywistości podstępu ani oszustwa, reprezentowanego przez Slavyę, to zaczyna mi się wszystko podobać coraz bardziej."
 
 
 translate polish day1_a20cefa7_6:
@@ -2102,367 +2102,367 @@ translate polish day1_a20cefa7_6:
 translate polish day1_a28a58fe:
 
 
-    "For the first time today I realised that it was awfully hot here."
+    "Po raz pierwszy dzisiaj zdałem sobie sprawę, że jest tu okropnie gorąco."
 
 
 translate polish day1_3aa2905a:
 
 
-    "Although, obviously, my winter clothes were to blame for that."
+    "Chociaż, oczywiście, moje zimowe ubrania były temu winne."
 
 
 translate polish day1_6224b6ad:
 
 
-    "I took off my coat and dropped it onto the bed, my pullover followed it; I was now wearing only the shirt."
+    "Zdjąłem płaszcz i upuściłem go na łóżko, za nim poszedł mój sweter, teraz miałem na sobie tylko koszulę."
 
 
 translate polish day1_1302b288:
 
 
-    th "That's much better!"
+    th "Tak jest o wiele lepiej!"
 
 
 translate polish day1_0650308f:
 
 
-    "All I could do now was follow their advice and go look around the camp."
+    "Wszystko co mogłem teraz zrobić, to pójść za ich radą i rozejrzeć się po obozie."
 
 
 translate polish day1_faf01b13:
 
 
-    th "I'll try to find something out in the meantime."
+    th "W międzyczasie spróbuję się czegoś dowiedzieć."
 
 
 translate polish day1_abe359aa:
 
 
-    "Passing the local 'residential district', I saw a pioneer guy coming my way."
+    'Mijając lokalną "dzielnicę mieszkalną", zobaczyłem pioniera, który szedł moją drogą.'
 
 
 translate polish day1_19166f7e:
 
 
-    "And it was really a pioneer guy, not a pioneer girl. Apparently there were men even in this kingdom of Amazons."
+    "I to był naprawdę pionierski facet, nie pionierska dziewczyna. Podobno nawet w tym królestwie Amazonii byli ludzie."
 
 
 translate polish day1_6e392819:
 
 
-    elp "Hello, you're new here, you must be Semyon, right?"
+    elp "Witam, jesteś tu nowy, musisz być Semyon, prawda?"
 
 
 translate polish day1_f4234049:
 
 
-    me "And how do you...?"
+    me "A jak ty...?"
 
 
 translate polish day1_eb3ac837:
 
 
-    elp "Everyone knows already! I'm Electronik, by the way. The real one. You can call me that."
+    elp "Wszyscy już wiedzą! Przy okazji, jestem Electronik. Ten prawdziwy. Możesz mnie tak nazywać."
 
 
 translate polish day1_1ab8b0e8:
 
 
-    th "Electronik. The real one. Things were going from 'crazy' to 'completely insane'."
+    th 'Electronik. Ten prawdziwy. Rzeczy przechodziły od "szaleństwa" do "całkowitego szaleństwa".'
 
 
 translate polish day1_f2e007f0:
 
 
-    me "All right..."
+    me "W porządku..."
 
 
 translate polish day1_13475f83:
 
 
-    el "Ulyana also calls me Cheesie."
+    el "Ulyana mówi do mnie Cheesie."
 
 
 translate polish day1_f005cc88:
 
 
-    me "Cheesie?"
+    me 'Cheesie?{w}\nPrzyp. tł.: Cheesie to z angielskiego po prostu zdrobnienie od słowa "ser".'
 
 
 translate polish day1_dd47efcd:
 
 
-    th "On toast, with mushrooms?"
+    th "Na tostach, z grzybami?"
 
 
 translate polish day1_8966f24f:
 
 
-    el "Because my last name is Cheesekov."
+    el "Bo moje nazwisko to Cheesekov."
 
 
 translate polish day1_f2e007f0_1:
 
 
-    me "I see..."
+    me "Rozumiem..."
 
 
 translate polish day1_ab73c55e:
 
 
-    el "Let me show you around!"
+    el "Pozwól, że oprowadzę cię po okolicy!"
 
 
 translate polish day1_c45870d5:
 
 
-    "I accepted his offer, as it would have taken much longer to get to know this place alone."
+    "Przyjąłem jego ofertę, bo samodzielne poznawanie tego miejsca zajęłoby dużo więcej czasu."
 
 
 translate polish day1_901746cb:
 
 
-    me "Fine, let's go."
+    me "Dobra, chodźmy."
 
 
 translate polish day1_e555f27e:
 
 
-    "We ended up at the square again."
+    "Znowu wylądowaliśmy na placu."
 
 
 translate polish day1_6bd8e03f:
 
 
-    th "As if this place was all there is to this camp..."
+    th "Jakby to miejsce było wszystkim, co jest w tym obozie..."
 
 
 translate polish day1_ac68c5e6:
 
 
-    "Lena was sitting on one of the benches, reading some book.{w} Electronik confidently approached her."
+    "Lena siedziała na jednej z ławek i czytała jakąś książkę.{w} Electronik pewnie zbliżył się do niej."
 
 
 translate polish day1_03a7db73:
 
 
-    el "Hello, Lena! Meet the new guy, Semyon."
+    el "Witaj, Lena! Poznaj nowego faceta, Semyona."
 
 
 translate polish day1_ebd7111d:
 
 
-    "He started briskly."
+    "Szybko zaczął."
 
 
 translate polish day1_f37aca17:
 
 
-    me "Hello.{w} Well, you could say we've already met, in a way."
+    me "Witam.{w} Cóż, można powiedzieć, że już się spotkaliśmy, w pewnym sensie."
 
 
 translate polish day1_31b01f67:
 
 
-    un "Yes…"
+    un "Tak…"
 
 
 translate polish day1_51f9c6e8:
 
 
-    "She looked away from the book for a moment, glanced at me, blushed and went back to reading, as if not noticing that we were still here."
+    "Odwróciła się na chwilę od książki, spojrzała na mnie, zarumieniła się i wróciła do czytania, jakby nie zauważyła, że wciąż tu jesteśmy."
 
 
 translate polish day1_0e6973ff:
 
 
-    el "All right, let's go on."
+    el "W porządku, chodźmy dalej."
 
 
 translate polish day1_e71595cb:
 
 
-    "I was at first surprised that 'meeting' this girl was reduced to a couple of words, but then I thought that it was better that way.{w} Electronik's vigorous activity did not fit well with Lena's shyness."
+    'Na początku byłem zaskoczony, że "spotkanie" z tą dziewczyną sprowadziło się do kilku słów, ale potem pomyślałem, że tak będzie lepiej.{w} Żywiołowa aktywność Electronika nie pasowała do nieśmiałości Leny.'
 
 
 translate polish day1_304c9144:
 
 
-    me "Let's go."
+    me "Chodźmy."
 
 
 translate polish day1_d2c497e2:
 
 
-    "Next we came to a building, which I instantly identified as a canteen."
+    "Następnie przyszliśmy do budynku, który od razu zidentyfikowałem jako stołówkę."
 
 
 translate polish day1_ac073a3b:
 
 
-    el "And this here..."
+    el "A to tutaj..."
 
 
 translate polish day1_e84fdadf:
 
 
-    me "I know! This is where you consume organic food!"
+    me "Wiem! To jest miejsce, gdzie konsumuje się żywność organiczną!"
 
 
 translate polish day1_06114188:
 
 
-    el "Yeah, something like that…"
+    el "Tia, coś w ten deseń…"
 
 
 translate polish day1_4eab803f:
 
 
-    "On the canteen's porch stood the unfriendly girl who hit me on the back earlier."
+    "Na ganku stołówki stała nieprzyjazna dziewczyna, która wcześniej uderzyła mnie w plecy."
 
 
 translate polish day1_2cd75b17:
 
 
-    "At the sight of her, my joking mood vanished in a blink of an eye."
+    "Na jej widok, w mgnieniu oka mój żartobliwy nastrój zniknął."
 
 
 translate polish day1_2eef73b2:
 
 
-    th "Really, now is not the best time to be pulling this guy's leg, even though he is quite hilarious."
+    th "Naprawdę, teraz to nie jest najlepszy czas, by robić sobie jaja z tym facetem, pomimo że jest dość zabawny."
 
 
 translate polish day1_88b653a6:
 
 
-    th "First I need to figure out what's what here, or at least where I am!"
+    th "Najpierw muszę się dowiedzieć, co tu jest, lub przynajmniej gdzie jestem!"
 
 
 translate polish day1_84bfeb9f:
 
 
-    el "Her, over there, that's Alisa Dvachevskaya. Be careful around her."
+    el "Ona, tam, to Alisa Dvachevskaya. Uważaj na nią."
 
 
 translate polish day1_36dc9fcc:
 
 
-    "He spoke in a whisper."
+    "Mówił szeptem."
 
 
 translate polish day1_c065e234:
 
 
-    el "Don't ever risk calling her DvaCheh, she doesn't like that!"
+    el "Nigdy nie ryzykuj nazywania jej DvaCheh, ona tego nie lubi!"
 
 
 translate polish day1_242c3a55:
 
 
-    dv "What did you say? What did you call me?"
+    dv "Co powiedziałeś? Jak mnie nazwałeś?"
 
 
 translate polish day1_c941236c:
 
 
-    "She must have heard him."
+    "Musiała go usłyszeć."
 
 
 translate polish day1_7cbd6d0d:
 
 
-    "In the blink of an eye, Alisa jumped down from the porch and dashed towards us."
+    "W mgnieniu oka, Alisa zeskoczyła z ganku i rzuciła się w naszym kierunku."
 
 
 translate polish day1_7810c210:
 
 
-    el "All right, you'll manage from here onwards..."
+    el "W porządku, dalej sobie poradzisz..."
 
 
 translate polish day1_8a6dfaab:
 
 
-    "Electronik took to his heels."
+    "Electronik wziął nogi za pas."
 
 
 translate polish day1_68ae01db:
 
 
-    "I decided that I had no wish to come across this aggressive Alisa girl again and darted after Electronik."
+    "Zdecydowałem, że nie mam ochoty ponownie spotykać się z tą agresywną dziewczyną Alisą i poleciałem za Electronikiem."
 
 
 translate polish day1_87908dda:
 
 
-    "Running to the square, I lost sight of him."
+    "Wbiegając na plac, straciłem go z oczu."
 
 
 translate polish day1_f5ecd77a:
 
 
-    "But Dvachevskaya wasn't chasing me either."
+    "Ale Dvachevskaya też mnie nie goniła."
 
 
 translate polish day1_efa7a730:
 
 
-    th "However, I really should not risk calling her that.{w} Even in my mind..."
+    th "Nie powinienem jednak ryzykować nazywania jej tak.{w} Nawet w mojej głowie..."
 
 
 translate polish day1_d436642f:
 
 
-    "After catching my breath, I wondered why I had reacted like that."
+    "Po złapaniu oddechu, zastanawiałem się, dlaczego tak zareagowałem."
 
 
 translate polish day1_50af9809:
 
 
-    th "All right, she is a girl... an aggressive one...{w} But why run away?"
+    th "Dobra, to dziewczyna... agresywna...{w} Ale dlaczego uciekać?"
 
 
 translate polish day1_cd458724:
 
 
-    "Failing to find a good answer, I sat down on a bench and stared at the monument to Genda."
+    "Nie znajdując dobrej odpowiedzi, usiadłem na ławce i wpatrywałem się w pomnik Gendy."
 
 
 translate polish day1_2d7b339e:
 
 
-    "Alisa, running past, stopped for a moment and growled:"
+    "Alisa, biegnąca obok, zatrzymała się na chwilę i wywarczała:"
 
 
 translate polish day1_1823fa4f:
 
 
-    dv "I'll deal with you later!"
+    dv "Z tobą policzę się później!"
 
 
 translate polish day1_35feebce:
 
 
-    me "Deal with me? What did I do wrong!?"
+    me "Policzysz się ze mną? Co zrobiłem złego!?"
 
 
 translate polish day1_7eff5e99:
 
 
-    "I added a forced guilty smile to my words."
+    "Do moich słów dodałem wymuszony niewinny uśmiech."
 
 
 translate polish day1_8fa3ff1e:
 
 
-    th "But what am I guilty of...?"
+    th "Ale czemu jestem ja winny...?"
 
 
 translate polish day1_9dbfd6f2:
 
 
-    "She made no reply and carried on chasing Electronik."
+    "Nie udzieliła odpowiedzi i kontynuowała gonitwę za Electronikiem."
 
 
 translate polish day1_a20cefa7_7:
@@ -2474,139 +2474,139 @@ translate polish day1_a20cefa7_7:
 translate polish day1_eb85f5b2:
 
 
-    th "Looks like I'll have to kill time alone, waiting for dinner."
+    th "Wygląda na to, że będę musiał zabić czas sam, czekając na kolację."
 
 
 translate polish day1_c1af6492:
 
 
-    "I decided to go east.{w} At least in the direction where east would be in my world."
+    "Postanowiłem pójść na wschód.{w} Przynajmniej w kierunku, w którym wschód byłby w moim świecie."
 
 
 translate polish day1_990e43f3:
 
 
-    "Soon after, I found myself near a football pitch."
+    "Wkrótce potem, znalazłem się w pobliżu boiska piłkarskiego."
 
 
 translate polish day1_55a5886e:
 
 
-    "A game was in full swing there."
+    "Gra była tam w pełnym impasie."
 
 
 translate polish day1_6e3f39b7:
 
 
-    th "I guess watching it for a bit wouldn’t do any harm."
+    th "Myślę, że oglądanie go przez chwilę nie zaszkodzi."
 
 
 translate polish day1_80a62586:
 
 
-    "In my childhood and teen years I was not a bad player myself and even thought of going professional, but a few injuries in a row killed my desire to risk my health for the sake of uncertain chance in the game."
+    "W dzieciństwie i latach młodzieńczych sam nie byłem złym zawodnikiem, a nawet myślałem o tym, żeby zostać profesjonalistą, ale kilka kontuzji z rzędu zabiło moje pragnienie do ryzykowania zdrowia ze względu na niepewne szanse w grze."
 
 
 translate polish day1_ac5ae99c:
 
 
-    "Kids of different ages were running around the pitch: I could see a boy of about ten and a girl of about fourteen years old..."
+    "Dzieci w różnym wieku biegały po boisku: Widziałem chłopca w wieku około dziesięciu lat i dziewczynkę w wieku około czternastu lat..."
 
 
 translate polish day1_f462954c:
 
 
-    th "A girl...{w} Hey, that's Ulyana!"
+    th "Dziewczyna...{w} Hej, to Ulyana!"
 
 
 translate polish day1_5e68b29c:
 
 
-    th "All right, so she plays football - what's so surprising?"
+    th "W porządku, więc gra w piłkę nożną - co jest tak zaskakujące?"
 
 
 translate polish day1_1ae034aa:
 
 
-    th "She seems a restless one, after all."
+    th "Wydaje się być niespokojna, w końcu."
 
 
 translate polish day1_0286167f:
 
 
-    "I was standing quite far from the pitch, but she still noticed me."
+    "Stałem dosyć daleko od boiska, ale ona i tak mnie zauważyła."
 
 
 translate polish day1_f85a8374:
 
 
-    us "Hey, you!"
+    us "Hej, ty!"
 
 
 translate polish day1_77bd833d:
 
 
-    "Ulyana shouted."
+    "Ulyana krzyczała."
 
 
 translate polish day1_afc02b59:
 
 
-    us "Wanna play?"
+    us "Chcesz zagrać?"
 
 
 translate polish day1_3f27c2c0:
 
 
-    "I didn't know how to answer."
+    "Nie wiedziałem jak odpowiedzieć."
 
 
 translate polish day1_7fb785ba:
 
 
-    th "On the one hand, running around for ten minutes is no big deal."
+    th "Z jednej strony, bieganie przez dziesięć minut to nic wielkiego."
 
 
 translate polish day1_b2114442:
 
 
-    th "On the other hand, any wrong move in my situation could be my final one."
+    th "Z drugiej strony, każdy zły ruch w mojej sytuacji może być moim ostatnim."
 
 
 translate polish day1_be98ba5d:
 
 
-    "But in any case, my attire wasn't suitable for this weather."
+    "Ale w każdym razie, mój strój nie był odpowiedni do tej pogody."
 
 
 translate polish day1_0b1fdc5d:
 
 
-    "If I played in winter boots and warm jeans, I would sweat like a pig."
+    "Gdybym grał w zimowych butach i ciepłych jeansach, pociłbym się jak świnia."
 
 
 translate polish day1_16639bbb:
 
 
-    th "And playing barefoot and without jeans would be simply unethical."
+    th "A gra na boso i bez dżinsów byłaby po prostu nieetyczna."
 
 
 translate polish day1_91f30c65:
 
 
-    me "Maybe another time, all right?"
+    me "Może innym razem, w porządku?"
 
 
 translate polish day1_1cdbc40f:
 
 
-    "I shouted in response, turned around and walked back."
+    "Krzyknąłem w odpowiedzi, odwróciłem się i poszedłem z powrotem."
 
 
 translate polish day1_317df2d8:
 
 
-    "I was followed by Ulyana's screams, about my pants, or about me being a pansy, or something like that..."
+    "Za mną szły krzyki Ulyany, o mojej dupie, albo o tym, że jestem dupa, albo coś w tym stylu..."
 
 
 translate polish day1_a20cefa7_8:
@@ -2618,7 +2618,7 @@ translate polish day1_a20cefa7_8:
 translate polish day1_4b9550bc:
 
 
-    "Evening was falling, making me feel tired and empty after a day wasted with no real purpose."
+    "Wieczór zapadał, przez co czułem się zmęczony i pusty po dniu zmarnowanym bez rzeczywistego celu."
 
 
 translate polish day1_a20cefa7_9:
@@ -2630,493 +2630,493 @@ translate polish day1_a20cefa7_9:
 translate polish day1_2d76a94d:
 
 
-    "I came back to the square, sat down on a bench and gave an exhausted sigh."
+    "Wróciłem na plac, usiadłem na ławce i wydałem wyczerpane westchnienie."
 
 
 translate polish day1_c7f14958:
 
 
-    th "I'd better sit here and wait for dinner.{w} After all, it's easier to search for answers when you're not hungry."
+    th "Lepiej usiądę tutaj i poczekam na kolację.{w} W końcu łatwiej jest szukać odpowiedzi, gdy nie jesteś głodny."
 
 
 translate polish day1_6face009:
 
 
-    th "They do give food to the people here, right...?"
+    th "Oni dają ludziom tutaj jedzenie, prawda...?"
 
 
 translate polish day1_6efc8181:
 
 
-    th "You know, it's curious how the simplest human needs can break the will to ponder on things, to strive for something."
+    th "Wiesz, to ciekawe, jak najprostsze ludzkie potrzeby mogą złamać wolę zastanowienia się nad rzeczami, do dążenia do czegoś.."
 
 
 translate polish day1_8098381c:
 
 
-    th "For example, I feel hungry now, so I care much less about where I am or what is happening to me."
+    th "Na przykład, czuję się teraz głodny, więc o wiele mniej zależy mi na tym, gdzie jestem i co się ze mną dzieje."
 
 
 translate polish day1_8e0062ff:
 
 
-    th "Could great people also be affected by this?"
+    th "Czy wielcy ludzie też mogą być tym dotknięci?"
 
 
 translate polish day1_11ca5f98:
 
 
-    th "And in that case, how did Spartacus start the slave uprising in ancient times...?"
+    th "A w tym przypadku, jak Spartakus rozpoczął powstanie niewolników w starożytnych czasach...?"
 
 
 translate polish day1_6d0083af:
 
 
-    th "I can only conclude that I am not a great person, and it does not really matter which mechanism I serve as a gear in: society, the Matrix, or a weird pioneer camp."
+    th "Mogę tylko stwierdzić, że nie jestem wielkim człowiekiem i nie ma znaczenia, w jakim mechanizmie służę jako trybik: w społeczeństwie, w Matrixie, czy w dziwnym obozie pionierów."
 
 
 translate polish day1_31836b32:
 
 
-    "My thoughts were interrupted by the sound of bells chiming from a loudspeaker on a light pole."
+    "Moje myśli przerywał odgłos dzwonów dobiegających z głośnika na słupie oświetleniowym."
 
 
 translate polish day1_bbaa6f9b:
 
 
-    th "It must be the dinner call!"
+    th "To musi być wezwanie na kolację!"
 
 
 translate polish day1_d1afa489:
 
 
-    "I headed towards the canteen; it was a good thing that now I knew where it was."
+    "Udałem się do stołówki. Dobrze, że teraz wiem, gdzie to jest."
 
 
 translate polish day1_60f3a365:
 
 
-    "Olga Dmitrievna was there, standing on the porch."
+    "Olga Dmitrievna tam była, stojąc na ganku."
 
 
 translate polish day1_3181ce0b:
 
 
-    "I stopped and looked closely at her, as if I were expecting something."
+    "Zatrzymałem się i przyjrzałem jej się uważnie, jakbym się czegoś spodziewał."
 
 
 translate polish day1_620995d5:
 
 
-    "She looked back at me for a while, but at last came closer."
+    "Spojrzała na mnie przez chwilę, ale w końcu podeszła bliżej."
 
 
 translate polish day1_e4e46775:
 
 
-    mt "Semyon, what are you waiting for? Come in already!"
+    mt "Semyon, na co czekasz? Wejdź już!"
 
 
 translate polish day1_3db38509:
 
 
-    th "Guess nothing bad can happen if I go with her."
+    th "Chyba nic złego nie może się stać, jeśli pójdę z nią."
 
 
 translate polish day1_8646eca1:
 
 
-    "My stomach backed me up here."
+    "Mój żołądek mnie tu wspierał."
 
 
 translate polish day1_20d3b7df:
 
 
-    "The two of us went inside."
+    "Weszliśmy we dwoje do środka."
 
 
 translate polish day1_d5cccf64:
 
 
-    "The canteen looked like...{w} a canteen."
+    "Stołówka wyglądała jak...{w} stołówka."
 
 
 translate polish day1_5a204f67:
 
 
-    "I'd had a chance to visit a factory canteen at some point in my life...{w} This one was exactly the same, just maybe a bit cleaner and more modern."
+    "Miałem okazję odwiedzić stołówkę w fabryce w pewnym momencie mojego życia...{w} Ta była dokładnie taka sama, tylko może trochę czystsza i bardziej nowoczesna."
 
 
 translate polish day1_7f269d4e:
 
 
-    "Metal chairs and tables, glazed tiles on the walls and on the floor, unsophisticated tableware with the occasional crack."
+    "Metalowe krzesła i stoły, glazurowane płytki na ścianach i na podłodze, niewyszukana zastawa stołowa z okazjonalnymi pęknięciami."
 
 
 translate polish day1_2b4a4a89:
 
 
-    th "Guess that's what a canteen in a pioneer camp supposed to look like."
+    th "Pewnie tak właśnie powinna wyglądać stołówka w obozie dla pionierów."
 
 
 translate polish day1_865ed000:
 
 
-    mt "Semyon, wait a moment, we'll find you a place to sit…"
+    mt "Semyon, poczekaj chwilę, znajdziemy ci miejsce do siedzenia…"
 
 
 translate polish day1_fed0ccad:
 
 
-    "She looked around the place."
+    "Rozejrzała się wokół."
 
 
 translate polish day1_cbc89c54:
 
 
-    mt "Dvachevskaya, hold it right there!"
+    mt "Dvachevskaya, chodź no tutaj!"
 
 
 translate polish day1_bccd2e3b:
 
 
-    "Olga Dmitrievna shouted at Alisa who was passing by."
+    "Olga Dmitrievna krzyknęła na Alisę, która przeszła obok."
 
 
 translate polish day1_e0ebb201:
 
 
-    dv "What?"
+    dv "Co?"
 
 
 translate polish day1_686395a7:
 
 
-    mt "What's up with your clothes?"
+    mt "Co się stało z twoimi ubraniami?"
 
 
 translate polish day1_f893781b:
 
 
-    dv "Anything wrong with them?"
+    dv "Co z nimi nie tak?"
 
 
 translate polish day1_6c59a28a:
 
 
-    "Indeed, her attire looked somewhat provocative..."
+    "Rzeczywiście, jej strój wyglądał nieco prowokująco..."
 
 
 translate polish day1_7f4c6c16:
 
 
-    mt "Get your uniform nice and neat right now!"
+    mt "Załatw sobie ładny i schludny mundur, ale już!"
 
 
 translate polish day1_aa5269ba:
 
 
-    dv "All right, all right..."
+    dv "W porządku, w porządku..."
 
 
 translate polish day1_02da0b4a:
 
 
-    "Alisa got her shirt right and walked past, shooting an unpleasant glare at me."
+    "Alisa doprowadziła swoją koszulę do porządku i przeszła obok, rzucając na mnie nieprzyjemnym spojrzeniem."
 
 
 translate polish day1_a1e6af5d:
 
 
-    mt "So, where can we find you a place to sit?"
+    mt "Więc, gdzie możemy znaleźć ci miejsce siedzące?"
 
 
 translate polish day1_30ea3e74:
 
 
-    "There weren't a lot of free seats."
+    "Nie było zbyt wiele wolnych miejsc."
 
 
 translate polish day1_986412cf:
 
 
-    mt "Go over there, next to Ulyana!"
+    mt "Idź tam, obok Ulyany!"
 
 
 translate polish day1_2cfe56a5:
 
 
-    me "Uhm... Maybe I..."
+    me "Uhm... Może ja..."
 
 
 translate polish day1_385a7396:
 
 
-    mt "Yeah, it's fine, the food's already on the table, too!"
+    mt "Tak, w porządku, jedzenie też już jest na stole!"
 
 
 translate polish day1_07918b6c:
 
 
-    "I had no other choice but to accept."
+    "Nie miałem innego wyboru, jak tylko się zgodzić."
 
 
 translate polish day1_ff014804:
 
 
-    "Of course, there was the probability that the cutlets were poisoned with curare, the mashed potatoes generously seasoned with arsenic, and the glass filled with excellent antifreeze instead of kompot..."
+    "Oczywiście istniało prawdopodobieństwo, że kotlety były zatrute kurarą, tłuczone ziemniaki obficie przyprawione arszenikiem, a szklanki wypełnione doskonałym środkiem przeciw zamarzaniu zamiast kompotu..."
 
 
 translate polish day1_1dcade22:
 
 
-    "But it all looked so tasty that I had no chance to resist!"
+    "Ale to wszystko wyglądało tak smacznie, że nie dałem rady się oprzeć!"
 
 
 translate polish day1_d5d98923:
 
 
-    us "Hey!"
+    us "Hej!"
 
 
 translate polish day1_087d8e36:
 
 
-    me "Whaddaya want?"
+    me "Czegho ghchczesz?"
 
 
 translate polish day1_4b969ae9:
 
 
-    "I replied rather rudely to Ulyana, who was sitting next to me."
+    "Odpowiedziałem dość niegrzecznie Ulyanie, która siedziała obok mnie."
 
 
 translate polish day1_bcac0437:
 
 
-    us "Why didn't you play football with us?"
+    us "Dlaczego nie zagrałeś z nami w piłkę nożną?"
 
 
 translate polish day1_ee0ece72:
 
 
-    me "Because of my clothes."
+    me "Z powodu moich ubrań."
 
 
 translate polish day1_ac6bee46:
 
 
-    "Said I, pointing at the source of the problem."
+    "Powiedziałem, wskazując na źródło problemu."
 
 
 translate polish day1_762f9dc6:
 
 
-    us "Oh, all right then, eat."
+    us "Oh, dobrze więc, jedz."
 
 
 translate polish day1_71c21715:
 
 
-    "However, there wasn't much left to eat: my cutlet was missing from the plate!"
+    "Lecz nie zostało mi wiele do zjedzenia: z talerza zniknął mój kotlet!"
 
 
 translate polish day1_2623f571:
 
 
-    th "Only she could have done it."
+    th "Tylko ona mogła to zrobić."
 
 
 translate polish day1_f9c55ec5:
 
 
-    th "No, more precisely, none but Ulyana could have done it!"
+    th "Nie, dokładniej, nikt poza Ulyaną nie mógł tego zrobić!"
 
 
 translate polish day1_58e7978c:
 
 
-    me "Give me back my cutlet!"
+    me "Oddaj mi mój kotlet!"
 
 
 translate polish day1_0f31d85b:
 
 
-    us "In a big family, you snooze, you lose!{w} It can cost you a cutlet if you are careless!"
+    us "W dużej rodzinie, śpisz, przegrywasz!{w} To może cię kosztować kotleta, jeśli jesteś nieostrożny!"
 
 
 translate polish day1_ea7db8e5:
 
 
-    me "Give it back, I'm telling you!"
+    me "Oddaj to, mówię ci!"
 
 
 translate polish day1_3e16ffc9:
 
 
-    "I looked at her menacingly and was about to reach out my hand..."
+    "Spojrzałem na nią groźnie i miałem zamiar wyciągnąć rękę..."
 
 
 translate polish day1_39e0f78f:
 
 
-    us "See, I don't have it!"
+    us "Widzisz, nie mam go!"
 
 
 translate polish day1_8fb93759:
 
 
-    "And indeed, Ulyana's plate was empty; it seemed that this little girl eats as fast as she steals someone’s cutlets."
+    "I rzeczywiście, talerz Ulyany był pusty; wydawało się, że ta mała dziewczynka je tak szybko, jak kradnie czyjeś kotlety."
 
 
 translate polish day1_bf4d7f64:
 
 
-    us "Take it easy, we'll work something out now!"
+    us "Spokojnie, zaraz coś ogarniemy!"
 
 
 translate polish day1_c2895463:
 
 
-    "She grabbed my plate and ran off."
+    "Chwyciła mój talerz i uciekła."
 
 
 translate polish day1_4c2a1209:
 
 
-    "There was no point in following her: if they wanted to poison me here, they could have done it in a much easier way."
+    "Nie było sensu jej obserwować: gdyby chcieli mnie tu otruć, mogliby to zrobić w znacznie łatwiejszy sposób."
 
 
 translate polish day1_4bb06742:
 
 
-    "About a minute later, Ulyana returned and handed me the plate with a steaming hot cutlet on it."
+    "Mniej więcej minutę później, Ulyana wróciła i podała mi talerz z parującym, gorącym kotletem."
 
 
 translate polish day1_39cd2cfa:
 
 
-    us "Here's one for the starving!"
+    us "Oto jeden kotlet dla głodującego!"
 
 
 translate polish day1_73aab3cd:
 
 
-    me "Thanks…"
+    me "Dzięki…"
 
 
 translate polish day1_dfe4386e:
 
 
-    "It was all I could say."
+    "To było wszystko, co mogłem powiedzieć."
 
 
 translate polish day1_e425e9ee:
 
 
-    "I was so hungry that my suspicions were gone in a flash.{w} I picked up the cutlet with my fork and..."
+    "Byłem tak głodny, że moje podejrzenia zniknęły w mgnieniu oka.{w} Podniosłem widelcem kotlet i..."
 
 
 translate polish day1_2158fc2f:
 
 
-    th "What the!?{w} Some bug!{w} No, not a bug!{w} An insect!{w} It got legs and it's wiggling!"
+    th "Co do...!?{w} Jakiś robak!{w} Nie, nie robak!{w} Insekt!{w} Ma nogi i wije się!"
 
 
 translate polish day1_27e62654:
 
 
-    "The plate fell to the floor and broke into pieces; the chair hit me hard on my leg while falling."
+    "Talerz spadł na podłogę i rozpadł się na kawałki; krzesło mocno uderzyło mnie w nogę podczas upadku."
 
 
 translate polish day1_c1ea30fa:
 
 
-    "I've disliked insects since I was a child, but when these creepy-crawlies appear in my plate, that's just way too much!"
+    "Od dziecka nie lubiłem owadów, ale kiedy te przerażające pełzacze pojawiły się na moim talerzu, to było o wiele za wiele!"
 
 
 translate polish day1_670b85c3:
 
 
-    me "You little..."
+    me "Ty mała..."
 
 
 translate polish day1_cdba60b2:
 
 
-    "Ulyana seemed ready for such a twist and was already at the door, laughing as if she had just heard a fresh stand-up comedy joke."
+    "Ulyana wydawała się być gotowa na taki zwrot akcji i była już przy drzwiach, śmiejąc się, jakby właśnie usłyszała jakiś nowy komediowy żart."
 
 
 translate polish day1_a0076c62:
 
 
-    "I dashed after her."
+    "Rzuciłem się za nią."
 
 
 translate polish day1_4a7f4c33:
 
 
-    "We ran out of the canteen."
+    "Wybiegliśmy ze stołówki."
 
 
 translate polish day1_51f77987:
 
 
-    "We were just a few dozen metres apart, and I felt I would catch this little girl easily."
+    "Byliśmy tylko kilkadziesiąt metrów od siebie, i czułem, że łatwo złapię tę małą dziewczynkę."
 
 
 translate polish day1_c0e0bceb:
 
 
-    "We ran through the square..."
+    "Przebiegliśmy przez plac..."
 
 
 translate polish day1_8d3b0cc2:
 
 
-    "Past the clubs' house..."
+    "Za klubowe domki..."
 
 
 translate polish day1_f7567198:
 
 
-    "And ran onto the forest path."
+    "I wbiegłem na leśną ścieżkę."
 
 
 translate polish day1_d50859c6:
 
 
-    "I started to gasp for breath."
+    "Zacząłem ciężko łapać oddech."
 
 
 translate polish day1_80f73680:
 
 
-    th "I should have quit smoking I guess…"
+    th "Chyba powinienem był rzucić palenie…"
 
 
 translate polish day1_1178684b:
 
 
-    "Ulyana passed out of sight on the next turn."
+    "Ulyana zniknęła z pola widzenia na następnym zakręcie."
 
 
 translate polish day1_b24a1f41:
 
 
-    th "It can't be true that she managed to get away from me!"
+    th "To nie może być prawda, że udało jej się uciec ode mnie!"
 
 
 translate polish day1_c255b412:
 
 
-    th "It simply can't!"
+    th "Po prostu nie może!"
 
 
 translate polish day1_7a8d7835:
 
 
-    "I stopped and tried to catch my breath again."
+    "Zatrzymałem się i znów próbowałem złapać oddech."
 
 
 translate polish day1_a20cefa7_10:
@@ -3128,31 +3128,31 @@ translate polish day1_a20cefa7_10:
 translate polish day1_fd3eb8d2:
 
 
-    "Night was falling."
+    "Zapadała noc."
 
 
 translate polish day1_b570941e:
 
 
-    th "Looks like I'm lost…"
+    th "Wygląda na to, że się zgubiłem…"
 
 
 translate polish day1_bce9bc24:
 
 
-    th "It's a bad idea to stay in the woods at night; better get back to the camp."
+    th "To zły pomysł, żeby zostać w lesie na noc; lepiej wrócić do obozu."
 
 
 translate polish day1_bbe1aefc:
 
 
-    "However, I had absolutely no clue which way to go."
+    "Nie miałem jednak absolutnie żadnego pojęcia, w którą stronę się udać."
 
 
 translate polish day1_985a9376:
 
 
-    th "Well, gotta choose at random."
+    th "Cóż, muszę wybrać losowo."
 
 
 translate polish day1_a20cefa7_11:
@@ -3170,79 +3170,79 @@ translate polish day1_a20cefa7_12:
 translate polish day1_f8583ab1:
 
 
-    "I wandered for quite some time in the forest and even thought of crying for help, but finally I saw the camp's fence beyond the trees."
+    "Włóczyłem się przez dłuższy czas po lesie, a nawet myślałem o wołaniu o pomoc, ale w końcu zobaczyłem ogrodzenie obozu za drzewami."
 
 
 translate polish day1_7ad8ae02:
 
 
-    th "Everything fell back into place."
+    th "Wszystko wróciło na miejsce."
 
 
 translate polish day1_7f4df294:
 
 
-    me "The bus is gone..."
+    me "Autobus odjechał...."
 
 
 translate polish day1_6cfccad8:
 
 
-    "I mumbled quietly."
+    "Wymamrotałem cicho."
 
 
 translate polish day1_dbfa4d22:
 
 
-    "On the one hand, there was nothing strange about that: the bus couldn't just stay there forever."
+    "Z jednej strony nie było w tym nic dziwnego: autobus nie mógł tam stać wiecznie."
 
 
 translate polish day1_42ed0653:
 
 
-    "On the other hand, it meant there was someone driving, because buses do not drive themselves!"
+    "Z drugiej strony oznaczało to, że ktoś tu jeździł, ponieważ autobusy same nie jeżdżą!"
 
 
 translate polish day1_dcc5269b:
 
 
-    th "Or do they?"
+    th "A może jeżdżą?"
 
 
 translate polish day1_ba1dfa38:
 
 
-    "This world seemed too normal, but every event here had at least two explanations for it: an ordinary, real, everyday explanation, and a surreal one."
+    "Ten świat wydaje się być zbyt normalny, a każde wydarzenie ma co najmniej dwa wyjaśnienia: zwykłe, prawdziwe, codzienne i surrealistyczne."
 
 
 translate polish day1_b678b61b:
 
 
-    "Certainly, the driver could have just been off for a snack, and I left too soon, and that's why..."
+    "Z pewnością kierowca mógł właśnie wyjechać na przekąskę, a ja wyszedłem za wcześnie i dlatego..."
 
 
 translate polish day1_ec1d1437:
 
 
-    th "In any case, this is not the place for me!"
+    th "W każdym razie to nie jest miejsce dla mnie!"
 
 
 translate polish day1_9aa1fa90:
 
 
-    "Whether that bus drives itself or not was probably an important question, but it was much more important to know how I had got here at all."
+    "To, czy ten autobus jeździ sam, czy nie, było prawdopodobnie ważnym pytaniem, ale o wiele ważniejszym było dowiedzieć się, jak się tutaj dostałem."
 
 
 translate polish day1_2b9ab305:
 
 
-    "And where this {i}here{/i} was..."
+    "I gdzie to {i}tutaj{/i} jest..."
 
 
 translate polish day1_5aa31516:
 
 
-    "The fields and the woods, stretching towards the horizon, had no answers; there was nothing familiar about them."
+    "Pola i lasy rozciągające się po horyzont nie miały żadnych odpowiedzi; nie było w nich nic znajomego."
 
 
 translate polish day1_a20cefa7_13:
@@ -3254,37 +3254,37 @@ translate polish day1_a20cefa7_13:
 translate polish day1_13255b43:
 
 
-    "A strange, odd, and alien world.{w} However, at the same time it was absolutely not frightening."
+    "Dziwny, osobliwy i obcy świat.{w} Jednocześnie jednak nie było to absolutnie przerażające."
 
 
 translate polish day1_c83e85c5:
 
 
-    "Either my self-preservation instinct decided to resign from its job, or all this running around the camp and the local pioneers had lulled me so much with their carefree normality that I was simply forgetting what had happened to me just a couple of hours ago."
+    "Albo mój instynkt samozachowawczy zdecydował się zrezygnować z pracy, albo to całe bieganie po obozie i lokalni pionierzy tak bardzo zwiedli mnie swoją beztroską normalnością, że po prostu zapomniałem, co się ze mną stało kilka godzin temu."
 
 
 translate polish day1_e9c8c9dc:
 
 
-    "Although I probably just had no strength left to worry."
+    "Chociaż prawdopodobnie nie miałem już siły się martwić."
 
 
 translate polish day1_ab64ceb2:
 
 
-    "All I wanted was some peace, calmness; I wanted to just have a break from it all, and only after that would I continue looking for answers, ready and reloaded."
+    "Wszystko, czego chciałem to trochę spokoju i ciszy; Chciałem po prostu oderwać się od tego wszystkiego, a dopiero potem dalej szukać odpowiedzi, gotowy i na nowo naładowany."
 
 
 translate polish day1_c260705c:
 
 
-    "However, that would be some time later..."
+    "Jednakże, to trochę później..."
 
 
 translate polish day1_5cfa0252:
 
 
-    th "And what about now? Can I allow myself to relax?"
+    th "I co teraz? Mogę sobie pozwolić na odpoczynek?"
 
 
 translate polish day1_a20cefa7_14:
@@ -3296,19 +3296,19 @@ translate polish day1_a20cefa7_14:
 translate polish day1_b2e9fb9d:
 
 
-    "It got completely dark, and in any case it was better to spend the night in the camp."
+    "Zrobiło się zupełnie ciemno, i w każdym wypadku lepszym rozwiązaniem było spędzenie nocy w obozie."
 
 
 translate polish day1_46aa5cbc:
 
 
-    "I was about to head back when someone came up silently from behind."
+    "Miałem zamiar wracać, gdy ktoś podszedł cicho od tyłu."
 
 
 translate polish day1_ac5eb104:
 
 
-    sl "Hello, what are you doing here so late?"
+    sl "Cześć, co ty tu robisz tak późno?"
 
 
 translate polish day1_51149e68_2:
@@ -3320,265 +3320,265 @@ translate polish day1_51149e68_2:
 translate polish day1_245b70c4:
 
 
-    "It was Slavya standing before me.{w} I was so surprised that I jumped."
+    "Osoba stojąca obok mnie to była Slavya.{w} Byłem tak zaskoczony, że aż podskoczyłem."
 
 
 translate polish day1_ec2df0cc:
 
 
-    sl "So, you didn't catch Ulyana, did you?"
+    sl "Więc, nie złapałeś Ulyany, czyż nie?"
 
 
 translate polish day1_d1046a49:
 
 
-    "She smiled."
+    "Uśmiechnęła się."
 
 
 translate polish day1_5e1fc6b8:
 
 
-    "I nodded disappointedly and sighed."
+    "Kiwnąłem głową i westchnąłem z rozczarowaniem."
 
 
 translate polish day1_dd08f845:
 
 
-    sl "No wonder.{w} No one ever has."
+    sl "Nic dziwnego. Nikt nigdy wcześniej tego nie dokonał."
 
 
 translate polish day1_476d94f1:
 
 
-    th "Yeah, she's a real rocket girl.{w} She could have found a better use for her energy than looking for adventures..."
+    th "Tia, to prawdziwa dziewczyna rakieta.{w} Mogłaby znaleźć lepsze wykorzystanie dla swojej energii niż szukanie przygód..."
 
 
 translate polish day1_d1722b3c:
 
 
-    sl "You must be hungry, you didn’t manage to have dinner after all..."
+    sl "Musisz być głodny, nie udało ci się w końcu zjeść kolacji..."
 
 
 translate polish day1_d0dae46d:
 
 
-    "Indeed, I had completely forgot about my hunger, but after these words of hers my stomach drew attention to itself by giving a traitorous rumble."
+    "Rzeczywiście, zupełnie zapomniałem o moim głodzie, ale po tych słowach mój żołądek zwrócił na siebie uwagę, wydając zdradziecki dźwięk."
 
 
 translate polish day1_c17a722d:
 
 
-    "Slavya smiled."
+    "Slavya uśmiechnęła się."
 
 
 translate polish day1_4cbb01a1:
 
 
-    sl "Let's go then."
+    sl "Chodźmy więc."
 
 
 translate polish day1_e01dee92:
 
 
-    me "What, is the canteen still open?"
+    me "Co, stołówka jest jeszcze otwarta?"
 
 
 translate polish day1_40c17de2:
 
 
-    sl "It's all right, I have the keys."
+    sl "Nie, ale nic nie szkodzi, mam klucze."
 
 
 translate polish day1_36955eb7:
 
 
-    me "The keys?"
+    me "Klucze?"
 
 
 translate polish day1_ab83b32e:
 
 
-    sl "Yes, I have keys to all the facilities in this camp."
+    sl "Tak, mam klucze do wszystkich obiektów w tym obozie."
 
 
 translate polish day1_9080c90e:
 
 
-    me "How come?"
+    me "Jak to się stało?"
 
 
 translate polish day1_ca97714d:
 
 
-    sl "Well, I'm something like the camp leader's aide here."
+    sl "Cóż, jestem tu jakby asystentką kierownika obozu."
 
 
 translate polish day1_7e4b1b8c:
 
 
-    me "I see.{w} Well, let's go."
+    me "Widzę.{w} Cóż, chodźmy."
 
 
 translate polish day1_63a3eb4c:
 
 
-    "It was an offer you can’t refuse."
+    "To była oferta, której nie możesz odrzucić."
 
 
 translate polish day1_00f9254f:
 
 
-    "When we reached the square, Slavya stopped in her tracks."
+    "Kiedy dotarliśmy na plac, Slavya zatrzymała się w miejscu."
 
 
 translate polish day1_7f5d338c:
 
 
-    sl "Excuse me, I should warn my roommate that I'll be late; she's so punctual herself that she'll be worried otherwise."
+    sl "Przepraszam, powinnam ostrzec moją współlokatorkę, że się spóźnię. Jest tak punktualna, że inaczej będzie się martwić."
 
 
 translate polish day1_518df0ed:
 
 
-    sl "You go on to the canteen, and I'll come in a minute, alright?"
+    sl "Ty idź do stołówki, a ja przyjdę za minutkę, dobrze?"
 
 
 translate polish day1_505d91ae:
 
 
-    me "Alright..."
+    me "W porządku..."
 
 
 translate polish day1_32ac72cc:
 
 
-    "I really did not expect to find somebody aside from myself there at such a late hour."
+    "Naprawdę nie spodziewałem się znaleźć tam kogokolwiek poza mną o tak późnej porze."
 
 
 translate polish day1_b6cef34a:
 
 
-    "And that somebody was apparently trying hopelessly to open the door."
+    "Ani tego, że ktoś najwyraźniej bezskutecznie próbował otworzyć drzwi."
 
 
 translate polish day1_18f36ecf:
 
 
-    "Without any secret thoughts, I walked up onto the porch."
+    "Bez żadnych ukrytych myśli, wszedłem na ganek."
 
 
 translate polish day1_d706aa5c:
 
 
-    "The lock picker turned out to be Alisa."
+    "Włamywaczką okazała się być Alisa."
 
 
 translate polish day1_e81739e5:
 
 
-    th "I should have probably kept off and waited... "
+    th "Pewnie powinienem był się trzymać z daleka i poczekać..."
 
 
 translate polish day1_bbe1ef0f:
 
 
-    "She looked at me intently for a while, then said:"
+    "Spojrzała na mnie uważnie przez chwilę, a potem powiedziała:"
 
 
 translate polish day1_a872d369:
 
 
-    dv "Don't just stand there, give me a hand or something!"
+    dv "Nie stój tak po prostu, tylko pomóż mi czy coś!"
 
 
 translate polish day1_e54b39e9:
 
 
-    me "Meaning?"
+    me "Konkretnie?"
 
 
 translate polish day1_9736714c:
 
 
-    dv "Help me open the door!"
+    dv "Pomóż mi otworzyć drzwi!"
 
 
 translate polish day1_7332342b:
 
 
-    me "Why?"
+    me "Dlaczego?"
 
 
 translate polish day1_c67591a7:
 
 
-    dv "'Cause I want some buns and kefir! Dinner wasn't big enough!"
+    dv "Bo chcę trochę bułeczek i kefiru! Kolacja nie była wystarczająco duża!"
 
 
 translate polish day1_8d3f7a19:
 
 
-    me "Uhmmm...{w} Is that really a good idea?"
+    me "Uhmmm...{w} Czy to na pewno dobry pomysł?"
 
 
 translate polish day1_1381f7ca:
 
 
-    dv "Aren't you hungry yourself, huh?{w} Ulyana didn't let you have a normal dinner, did she?"
+    dv "Sam nie jesteś głodny?{w} Ulyana nie pozwoliła ci zjeść normalnej kolacji, czyż nie?"
 
 
 translate polish day1_f396e777:
 
 
-    "She smiled sarcastically."
+    "Uśmiechnęła się sarkastycznie."
 
 
 translate polish day1_ad73a68c:
 
 
-    th "It's true, she didn't..."
+    th "To prawda, nie pozwoliła..."
 
 
 translate polish day1_c43ed392:
 
 
-    me "It's fine, Slavya will come now and..."
+    me "W porządku, Slavya zaraz przyjdzie i..."
 
 
 translate polish day1_c8b0074b:
 
 
-    dv "WHAT?!"
+    dv "CO?!"
 
 
 translate polish day1_ca8046cd:
 
 
-    th "Guess I shouldn't have said that."
+    th "Chyba nie powinienem był tego mówić."
 
 
 translate polish day1_e7b745f9:
 
 
-    dv "I'm off then!"
+    dv "Zatem spadam!"
 
 
 translate polish day1_5f47ed77:
 
 
-    dv "And you'll pay for this!{w} You owe me two already!"
+    dv "A ty za to zapłacisz!{w} Zrobiłeś mnie już dwa razy!"
 
 
 translate polish day1_a180b25b:
 
 
-    "Having said that, Alisa disappeared into the night."
+    "Powiedziawszy to, Alisa zniknęła w nocy."
 
 
 translate polish day1_efb5548d:
 
 
-    th "And what was the first one?"
+    th "A kiedy był pierwszy raz?"
 
 
 translate polish day1_a20cefa7_15:
@@ -3590,649 +3590,649 @@ translate polish day1_a20cefa7_15:
 translate polish day1_696c481c:
 
 
-    "Slavya didn't keep me waiting for too long."
+    "Slavya nie kazała mi czekać zbyt długo."
 
 
 translate polish day1_8c608cb1:
 
 
-    sl "Is everything alright?"
+    sl "Czy wszystko w porządku?"
 
 
 translate polish day1_d5cf1edd:
 
 
-    me "Yeah, why are you asking?"
+    me "Tia, dlaczego pytasz?"
 
 
 translate polish day1_18938c76:
 
 
-    sl "No reason, it's nothing."
+    sl "Bez powodu, to nieistotne."
 
 
 translate polish day1_dc129c74:
 
 
-    "It would be better if I didn't tell her about Alisa."
+    "Będzie lepiej, jeśli nie powiem jej o Alisie."
 
 
 translate polish day1_b5544ae3:
 
 
-    me "Everything's fine."
+    me "Wszystko jest w porządku."
 
 
 translate polish day1_944a6c8e:
 
 
-    "I said that and immediately heard a note of dishonesty in my voice."
+    "Powiedziałem to i z miejsca usłyszałem nutę nieszczerości w moim głosie."
 
 
 translate polish day1_6d7067b9:
 
 
-    sl "Well, shall we go?"
+    sl "Cóż, możemy iść?"
 
 
 translate polish day1_3792d81a:
 
 
-    "As for Slavya, she seemed not to have noticed anything.{w} Or at least she was pretending she hadn't."
+    "Co do Slavyi, zdawało się, że niczego nie zauważyła.{w} Albo przynajmniej udawała, że tego nie zauważyła."
 
 
 translate polish day1_44f2c4ea:
 
 
-    "We entered the canteen."
+    "Weszliśmy do stołówki."
 
 
 translate polish day1_c8f556b6:
 
 
-    sl "Wait a bit, I'll go get something."
+    sl "Poczekaj chwilę, pójdę po coś."
 
 
 translate polish day1_d09b3412:
 
 
-    "I sat down on a chair and obediently waited for my saviour."
+    "Usiadłem na krześle i posłusznie czekałem na moją wybawczynię."
 
 
 translate polish day1_8775f75b:
 
 
-    "My dinner was simple: a few buns and a glass of kefir."
+    "Moja kolacja była prosta: kilka bułek i szklanka kefiru."
 
 
 translate polish day1_c6c983c8:
 
 
-    th "No wonder: I bet hungry pioneers finished everything off."
+    th "Nic dziwnego: Założę się, że głodni pionierzy zjedli wszystko.."
 
 
 translate polish day1_37e90611:
 
 
-    "However, even that was far better than most of my usual diet."
+    "Jednak nawet to było o wiele lepsze niż większość mojej zwykłej diety."
 
 
 translate polish day1_d5866868:
 
 
-    "Slavya sat across the table and looked at me while I was eating."
+    "Slavya usiadła po drugiej stronie stołu i patrzyła na mnie, gdy jadłem."
 
 
 translate polish day1_fbb73cfa:
 
 
-    me "Is there something on my face?"
+    me "Czy jest coś na mojej twarzy?"
 
 
 translate polish day1_178aa33f:
 
 
-    sl "No, just…"
+    sl "Nie, tylko…"
 
 
 translate polish day1_d1046a49_1:
 
 
-    "She smiled."
+    "Uśmiechnęła się."
 
 
 translate polish day1_dc9c1b81:
 
 
-    sl "So, how did you like your first day in the camp?"
+    sl "Jak ci się podobał twój pierwszy dzień w obozie?"
 
 
 translate polish day1_6a05d51d:
 
 
-    me "Well, I don't really know..."
+    me "Cóż, naprawdę nie wiem..."
 
 
 translate polish day1_b12cf159:
 
 
-    "It's silly to ask someone who suddenly found himself in a different reality whether he liked the food in the canteen, the camp leader, or his assigned hut."
+    "Głupotą jest pytać kogoś, kto nagle znalazł się w innej rzeczywistości, czy podoba mu się jedzenie w stołówce, kierownik obozu, czy przydzielony mu domek."
 
 
 translate polish day1_46db5ea6:
 
 
-    sl "It's alright, you'll soon get used to it!"
+    sl "W porządku, szybko się przyzwyczaisz!"
 
 
 translate polish day1_68e00554:
 
 
-    "Slavya stared out the window dreamily."
+    "Slavya patrzyła marzycielsko przez okno."
 
 
 translate polish day1_b05e0e4e:
 
 
-    th "Frankly speaking, I have no desire to get used to such things; but as for her, she doesn't know..."
+    th "Szczerze mówiąc, nie mam ochoty przyzwyczajać się do takich rzeczy, ale co do niej, ona nie wie..."
 
 
 translate polish day1_b9ffb640:
 
 
-    th "Or at least she wants me to think that she doesn't."
+    th "Albo przynajmniej chce, żebym tak myślał."
 
 
 translate polish day1_2c50ec15:
 
 
-    me "Well, all in all, it's nice here."
+    me "Cóż, w sumie, jest tu miło."
 
 
 translate polish day1_443c7288:
 
 
-    "I had to somehow break the awkward silence."
+    "Musiałem jakoś przerwać tę niezręczną ciszę."
 
 
 translate polish day1_17d13602:
 
 
-    sl "Do you think so?"
+    sl "Tak myślisz?"
 
 
 translate polish day1_a271f10e:
 
 
-    "She asked without any interest."
+    "Zapytała bez zainteresowania."
 
 
 translate polish day1_1b986acc:
 
 
-    me "Yeah. This place is so..."
+    me "Tak. To miejsce jest takie..."
 
 
 translate polish day1_d4bc890b:
 
 
-    "I wanted to say 'retro', but I managed to hold that back."
+    'Chciałem powiedzieć "retro", ale udało mi się to powstrzymać.'
 
 
 translate polish day1_edbbb7b2:
 
 
-    "After all, it was retro for me, but what about them?{w} It might be the only kind of life they knew."
+    "Przecież to było dla mnie retro, ale co z nimi?{w} To może być jedyny rodzaj życia, jaki znali."
 
 
 translate polish day1_78a8ca85:
 
 
-    "If the term {i}life{/i} was applicable here at all..."
+    "Jeżeli termin {i}życie{/i} miał tu w ogóle zastosowanie..."
 
 
 translate polish day1_789035fa:
 
 
-    sl "So how?"
+    sl "Jakie?"
 
 
 translate polish day1_00577787:
 
 
-    "She watched me closely.{w} As if something important depended on my answer."
+    "Obserwowała mnie uważnie.{w} Jakby coś ważnego zależało od mojej odpowiedzi."
 
 
 translate polish day1_7c2d154d:
 
 
-    me "Well, I don't know... lovely. Yeah! It's lovely here."
+    me "Cóż, nie wiem... cudowne. Tak! Tu jest cudownie."
 
 
 translate polish day1_c1307b0b:
 
 
-    sl "I guess you're right."
+    sl "Chyba masz rację."
 
 
 translate polish day1_78a2fe3f:
 
 
-    "She smiled again."
+    "Ponownie się uśmiechnęła."
 
 
 translate polish day1_e349590f:
 
 
-    sl "It's very good that you think so."
+    sl "To bardzo dobrze, że tak uważasz."
 
 
 translate polish day1_5ac38cf1_1:
 
 
-    me "Why?"
+    me "Dlaczego?"
 
 
 translate polish day1_17e99afb:
 
 
-    sl "Well, not everybody likes it here..."
+    sl "Cóż, nie wszystkim się tu podoba..."
 
 
 translate polish day1_1a377d44:
 
 
-    me "And what about you?"
+    me "A co z tobą?"
 
 
 translate polish day1_1995267f:
 
 
-    sl "Me?"
+    sl "Ze mną?"
 
 
 translate polish day1_fc30fd2b:
 
 
-    me "Yes."
+    me "Tak."
 
 
 translate polish day1_031c751c:
 
 
-    sl "I love it here, it's great."
+    sl "Uwielbiam to miejsce, jest wspaniałe."
 
 
 translate polish day1_5c30029f:
 
 
-    me "Then you don't need to worry about what other people think."
+    me "W takim razie nie musisz się martwić o to, co myślą inni ludzie."
 
 
 translate polish day1_879638a9:
 
 
-    sl "Well, I don't really worry."
+    sl "Cóż, ja naprawdę się nie martwię."
 
 
 translate polish day1_c954d69f:
 
 
-    "Slavya laughed."
+    "Slavya roześmiała się."
 
 
 translate polish day1_72c6e2b1:
 
 
-    "This conversation seemed to be leading me far astray from where I wanted to get to."
+    "Ta rozmowa zdawała się kierować mnie daleko od miejsca, do którego chciałem się dostać."
 
 
 translate polish day1_1a712a21:
 
 
-    sl "And you're worried yourself..."
+    sl "A ty się zamartwiasz..."
 
 
 translate polish day1_1d09f697:
 
 
-    me "Really? Why do you say so?"
+    me "Naprawdę? Dlaczego tak uważasz?"
 
 
 translate polish day1_8b1f703e:
 
 
-    sl "Well, when someone is chewing so intensely..."
+    sl "Cóż, kiedy ktoś tak intensywnie żuje..."
 
 
 translate polish day1_07129b8a:
 
 
-    me "I'm sorry."
+    me "Przepraszam."
 
 
 translate polish day1_705bea28:
 
 
-    sl "It's okay."
+    sl "W porządku."
 
 
 translate polish day1_02cdc4c3:
 
 
-    "I couldn't bring myself to be more cautious around this girl."
+    "Nie mogłem się zmusić, by być ostrożniejszym przy tej dziewczynie."
 
 
 translate polish day1_ded79e77:
 
 
-    "But why her in particular? Why not any other local inhabitant?"
+    "Ale dlaczego ona w szczególności? Dlaczego nie żaden inny okoliczny mieszkaniec?"
 
 
 translate polish day1_e53b428c:
 
 
-    "Every one of them looked completely normal to me.{w} Precisely {i}normal{/i}, so normal it sends chills down my spine and into my marrow!"
+    "Każdy z nich wyglądał dla mnie zupełnie normalnie.{w} Dokładniej tak {i}normalnie{/i}, że czułem dreszcze w dół mojego kręgosłupa i w szpiku!"
 
 
 translate polish day1_51e2809e:
 
 
-    "Normal, not like a neighbor with a power drill in one hand and a subwoofer in the other."
+    "Normalnie, ale nie jak sąsiad z wiertarką w jednej ręce i subwooferem w drugiej."
 
 
 translate polish day1_ab3da39e:
 
 
-    "Not like a passenger you can often meet in a subway or on public transport."
+    "Nie tak jak pasażer, jakiego można często spotkać w metrze lub w środkach transportu publicznego."
 
 
 translate polish day1_15d26ee0:
 
 
-    "Not like a coworker at the next table in an open plan office."
+    "Nie jak współpracownik przy następnym stole w otwartym biurze."
 
 
 translate polish day1_29ee93d2:
 
 
-    "And not even like a friend who only differs from other humans in his constant insistence."
+    "I nawet nie jak przyjaciel, który różni się tylko od innych ludzi w swoim ciągłym naleganiu."
 
 
 translate polish day1_82012fff:
 
 
-    "All of them looked {b}normal{/b} – as I would expect them to be – with their own downsides but without any superpowers."
+    "Wszyscy wyglądali {b}normalnie{/b} - jak bym się tego spodziewał - z własnymi wadami, ale bez żadnych supermocy."
 
 
 translate polish day1_c821ace7:
 
 
-    "And Slavya was also...{w} cute?"
+    "I Slavya była również...{w} urocza?"
 
 
 translate polish day1_7f68049d:
 
 
-    "I glanced at her stealthily, not knowing what to say."
+    "Spojrzałem na nią ukradkiem, nie wiedząc co powiedzieć."
 
 
 translate polish day1_1ec8deab:
 
 
-    sl "I'm sorry, I wanted to show you the camp but was ran off my feet."
+    sl "Przykro mi, chciałam pokazać ci obóz, ale naprawdę musiałam iść."
 
 
 translate polish day1_567b2330:
 
 
-    me "I... didn't miss anything while on my own, I guess."
+    me "Ja... nie przegapiłem niczego rozglądając się na własną rękę.{w} Chyba."
 
 
 translate polish day1_2e601a49:
 
 
-    sl "Are you sure you haven't missed anything at all?"
+    sl "Jesteś pewien, że niczego nie przegapiłeś?"
 
 
 translate polish day1_efd47648:
 
 
-    "She smiled so brightly that I had to drop my eyes in confusion."
+    "Uśmiechnęła się tak promiennie, że musiałem spuścić oczy w zakłopotaniu."
 
 
 translate polish day1_cdbd4a1c:
 
 
-    me "Well, how would I know – it's my first day here."
+    me "Cóż, skąd mam wiedzieć? To mój pierwszy dzień tutaj."
 
 
 translate polish day1_122de170:
 
 
-    sl "Okay, and what have you seen so far?"
+    sl "Dobra, a co widziałeś do tej pory?"
 
 
 translate polish day1_875830b6:
 
 
-    me "I've seen the square, this canteen, the football field..."
+    me "Widziałem plac, tę stołówkę, boisko do piłki nożnej..."
 
 
 translate polish day1_76985cc0:
 
 
-    sl "And what about the beach?"
+    sl "A co z plażą?"
 
 
 translate polish day1_b11fae54:
 
 
-    me "Just from afar."
+    me "Tylko z daleka."
 
 
 translate polish day1_f5ac888c:
 
 
-    sl "You really should go there! Or let's do it together!"
+    sl "Naprawdę powinieneś tam pójść! Albo zróbmy to razem!"
 
 
 translate polish day1_d5688542:
 
 
-    me "Yeah, ok... We will..."
+    me "Tia, ok... Pójdziemy..."
 
 
 translate polish day1_446ce20c:
 
 
-    "Her naturalness started to scare me, but then I thought – what if everything that happens here is how it supposed to be and this world looks strange only to me, while for them it is...{w} normal?"
+    "Jej naturalność zaczęła mnie przerażać, ale potem pomyślałem - co jeśli wszystko, co się tu dzieje, jest takie, jak miało być i ten świat wygląda dziwnie tylko dla mnie, a dla nich jest... {w}normalny?"
 
 
 translate polish day1_6578880f:
 
 
-    "Maybe I was thrown into the past...?"
+    "Może zostałem przeniesiony w przeszłość...?"
 
 
 translate polish day1_5410f15c:
 
 
-    "Yes, that would explain a lot."
+    "Tak, to by wiele tłumaczyło."
 
 
 translate polish day1_aad73e6b:
 
 
-    me "Can I ask a stupid question?"
+    me "Czy mogę zadać głupie pytanie?"
 
 
 translate polish day1_fadcaef0:
 
 
-    sl "No."
+    sl "Nie."
 
 
 translate polish day1_7b5c12bd:
 
 
-    "Slavya smiled and stood up from the table."
+    "Slavya uśmiechnęła się i wstała od stołu."
 
 
 translate polish day1_c5c451d5:
 
 
-    sl "It's late... Can you find the way to Olga Dmitrievna's by yourself?"
+    sl "Już późno... Możesz sam znaleźć drogę do Olgi Dmitrievny?"
 
 
 translate polish day1_9fef43a7:
 
 
-    me "Of course I can, but why should I go there?"
+    me "Oczywiście, mogę, ale dlaczego powinienem tam iść?"
 
 
 translate polish day1_821bd937:
 
 
-    sl "She'll settle you with someone."
+    sl "Ona cię przydzieli do kogoś."
 
 
 translate polish day1_7332342b_1:
 
 
-    me "What for?"
+    me "Po co?"
 
 
 translate polish day1_bfddcddb:
 
 
-    "Probably this question seemed stupid, because Slavya bursted into good-natured laughter."
+    "Zapewne to pytanie brzmiało głupio, bo Slavya wybuchła dobrodusznym śmiechem."
 
 
 translate polish day1_c070ca19:
 
 
-    sl "You need to sleep somewhere, right?"
+    sl "Musisz gdzieś spać, racja?"
 
 
 translate polish day1_4405a6cf:
 
 
-    me "That makes sense..."
+    me "To ma sens..."
 
 
 translate polish day1_2455141e:
 
 
-    sl "Fine, I'll be off then.{w} Good night!"
+    sl "W porządku, w takim razie pójdę już sobie.{w} Dobrej nocy!"
 
 
 translate polish day1_0a0db17f:
 
 
-    me "Night..."
+    me "Dobranoc..."
 
 
 translate polish day1_ca407fc5:
 
 
-    th "It's strange that she left in such a hurry..."
+    th "To dziwne, że wyszła w takim pośpiechu..."
 
 
 translate polish day1_c6b742a3:
 
 
-    "A bundle of keys left in the door lock caught my attention."
+    "Pęczek kluczy pozostawiony w zamku przykuł moją uwagę."
 
 
 translate polish day1_08ccb5b7:
 
 
-    "I was going to catch up to Slavya, but where does she live?"
+    "Miałem zamiar dogonić Slavię, ale gdzie ona mieszka?"
 
 
 translate polish day1_3aa2ad8d:
 
 
-    "And knocking on every door during the middle of the night didn't sound like a bright idea."
+    "A pukanie do każdych drzwi w środku nocy nie brzmiało jak dobry pomysł."
 
 
 translate polish day1_9356c1f1:
 
 
-    th "I'd better take them – I'll give them back tomorrow because who knows what happens here at night."
+    th "Lepiej je wezmę - oddam je jutro, bo kto wie, co tu się dzieje w nocy."
 
 
 translate polish day1_56811613:
 
 
-    "Such thoughts gave me chills – it's me who needs to be careful here in the first place."
+    "Takie myśli przyprawiały mnie o dreszcze - to ja w pierwszej kolejności muszę tu być ostrożny."
 
 
 translate polish day1_5802aa2b:
 
 
-    th "On the other hand why would I need them..."
+    th "Z drugiej strony, dlaczego miałbym ich potrzebować..."
 
 
 translate polish day1_0eb5a1f8:
 
 
-    "The night, though dark, wasn't silent at all – one could hear chirping crickets, the songs of the night birds and rustling trees from everywhere."
+    "Noc, choć ciemna, wcale nie była cicha - wszędzie słychać było świerszcze, śpiewy nocnych ptaków i szelest drzew."
 
 
 translate polish day1_ee63d9fd:
 
 
-    "A sudden desire to follow Slavya's advice and go to the camp leader’s cabin appeared."
+    "Nagle pojawiło się pragnienie, by pójść za radą Slavyi i udać się do kabiny kierownika obozu."
 
 
 translate polish day1_b358634e:
 
 
-    "I don't know why but the sight of the unknown bronze builder of communism put me in a constructive mood."
+    "Nie wiem dlaczego, ale widok nieznanego brązowego budowniczego komunizmu wprowadził mnie w konstruktywny nastrój."
 
 
 translate polish day1_e66f685d:
 
 
-    "I sat on the bench and started to recall everything that happened today.{w} That was all my constructive mood could offer."
+    "Usiadłem na ławce i zacząłem przypominać sobie wszystko, co się dzisiaj wydarzyło.{w} To wszystko, co mógł mi zaoferować mój konstruktywny nastrój."
 
 
 translate polish day1_2719b81b:
 
 
-    "Here was much brighter than near the canteen, and tardy pioneers were running by, so this place didn't seem scary at all."
+    "Tu było znacznie jaśniej niż w pobliżu stołówki, a obok przechodzili opieszali pionierzy, więc to miejsce wcale nie wydawało się straszne."
 
 
 translate polish day1_2dc0eb74:
 
 
-    th "Bus, summer camp, girls…"
+    th "Autobus, obóz letni, dziewczyny…"
 
 
 translate polish day1_3aff8100:
 
 
-    "I was so tired from everything new and strange that I could not come up with a single explanation for what was going on."
+    "Byłem tak zmęczony wszystkim nowym i dziwnym, że nie mogłem wymyślić ani jednego wytłumaczenia tego, co się działo."
 
 
 translate polish day1_4caea1ce:
 
 
-    "I heard a barely noticeable rustle nearby."
+    "Usłyszałem ledwo zauważalny szmer w pobliżu."
 
 
 translate polish day1_f2d26be1:
 
 
-    "I shivered and looked in that direction."
+    "Obróciłem się i spojrzałem w tamtym kierunku."
 
 
 translate polish day1_6993b49f:
 
 
-    th "A girl.{w} Reading a book."
+    th "Dziewczyna.{w} Czyta książkę."
 
 
 translate polish day1_2807e1fc:
@@ -4244,343 +4244,343 @@ translate polish day1_2807e1fc:
 translate polish day1_1bdc01a9:
 
 
-    "I decided to move closer and talk."
+    "Postanowiłem zbliżyć się i porozmawiać."
 
 
 translate polish day1_7ccf917f:
 
 
-    "She was the only new person I had met here without exchanging even a few words."
+    "Była jedyną nową tu spotkaną osobą, z którą nie zamieniłem nawet kilku słów."
 
 
 translate polish day1_7b241855:
 
 
-    me "Hi, what are you reading?"
+    me "Cześć, co czytasz?"
 
 
 translate polish day1_ac772bf2:
 
 
-    "Lena was so surprised that she even jumped."
+    "Lena była tak zaskoczona, aż poskoczyła."
 
 
 translate polish day1_ea263cee:
 
 
-    me "Sorry, didn't mean to scare you!"
+    me "Przepraszam, nie chciałem cię przestraszyć!"
 
 
 translate polish day1_62592cb0:
 
 
-    un "Never mind..."
+    un "Nieważne..."
 
 
 translate polish day1_ad42b83a:
 
 
-    "She blushed and stared at the book again."
+    "Zarumieniła się i znów spojrzała na książkę."
 
 
 translate polish day1_c43d3dfb:
 
 
-    me "So what are you reading?"
+    me "Więc co czytasz?"
 
 
 translate polish day1_f3297c42:
 
 
-    "On the cover was written 'Gone with the Wind'."
+    'Na okładce było napisane "Przeminęło z wiatrem".'
 
 
 translate polish day1_53009119:
 
 
-    me "A good book…"
+    me "Dobra książka…"
 
 
 translate polish day1_626232a6:
 
 
-    un "Thanks."
+    un "Dzięki."
 
 
 translate polish day1_87f26837:
 
 
-    th "Honestly speaking, I haven't read it but I think that such literature suits her very well."
+    th "Szczerze mówiąc, nie czytałem tego, ale uważam, że taka literatura bardzo jej odpowiada."
 
 
 translate polish day1_21b3e47f:
 
 
-    "Lena didn't seem to be interested in continuing the conversation."
+    "Lena nie wydawała się być zainteresowana kontynuowaniem rozmowy."
 
 
 translate polish day1_f85b2b40:
 
 
-    me "Well, if I'm bothering you..."
+    me "Cóż, jeśli ci przeszkadzam..."
 
 
 translate polish day1_049b021f:
 
 
-    un "No."
+    un "Nie."
 
 
 translate polish day1_62091b7c:
 
 
-    "She answered while still looking at the book."
+    "Odpowiedziała, ciągle patrząc na książkę."
 
 
 translate polish day1_13ee5d36:
 
 
-    me "Can I sit beside you for a while?"
+    me "Czy mogę usiąść obok ciebie na chwilę?"
 
 
 translate polish day1_41cfffd5:
 
 
-    un "Why?"
+    un "Dlaczego?"
 
 
 translate polish day1_e92b6e6e:
 
 
-    th "And really, why...?"
+    th "Naprawdę, dlaczego...?"
 
 
 translate polish day1_a0c74c5a:
 
 
-    "Maybe just because I was very tired and having company is better than being alone."
+    "Może tylko dlatego, że byłem bardzo zmęczony, a posiadanie towarzystwa jest lepsze niż bycie samemu."
 
 
 translate polish day1_bf12dc37:
 
 
-    "And maybe I wanted try to find something out from her."
+    "A może chciałem spróbować dowiedzieć się czegoś od niej."
 
 
 translate polish day1_0864712b:
 
 
-    "I carefully examined Lena."
+    "Ostrożnie przyjrzałem się Lenie."
 
 
 translate polish day1_07aeaaac:
 
 
-    th "But no, I doubt that..."
+    th "Ale nie, wątpię, że..."
 
 
 translate polish day1_3102ef10:
 
 
-    me "Well, I don't know... I'm not allowed to?"
+    me "Cóż, nie wiem... Nie wolno mi?"
 
 
 translate polish day1_3b683375:
 
 
-    un "Feel free..."
+    un "Nie krępuj się..."
 
 
 translate polish day1_d783747c:
 
 
-    me "But if I'm bothering you..."
+    me "Ale jeśli przeszkadzam ci..."
 
 
 translate polish day1_ab09f879:
 
 
-    un "No, you're not."
+    un "Nie, nie przeszkadzasz."
 
 
 translate polish day1_858edfda:
 
 
-    me "I can leave, just say..."
+    me "Mogę odejść, tylko powiedz..."
 
 
 translate polish day1_0d42a600:
 
 
-    un "Everything’s alright."
+    un "Wszystko jest w porządku."
 
 
 translate polish day1_f517812c:
 
 
-    me "Ok then..."
+    me "Dobrze więc..."
 
 
 translate polish day1_98f71c0d:
 
 
-    "I sat on the end of the bench carefully."
+    "Usiadłem ostrożnie na końcu ławki."
 
 
 translate polish day1_0fcded02:
 
 
-    "After such an intense talk, staying here was the last thing I wanted, but it wouldn't be nice to just stand up and leave."
+    "Po tak intensywnej rozmowie, pobyt tutaj był ostatnią rzeczą, jakiej chciałem, ale byłoby nie miło po prostu wstać i odejść."
 
 
 translate polish day1_61ec364d:
 
 
-    me "That didn’t really go well, huh?"
+    me "Nie poszło mi za dobrze, co?"
 
 
 translate polish day1_cf8bd28b:
 
 
-    "Lena hasn't answered anything."
+    "Lena nic nie odpowiedziała."
 
 
 translate polish day1_8caec5df:
 
 
-    "It seems I made a fool out of myself."
+    "Wygląda na to, że zrobiłem z siebie głupka."
 
 
 translate polish day1_60dd740c:
 
 
-    "I bet if Ulyana was here she'd have a good laugh at me."
+    "Założę się, że gdyby Ulyana tu była, z pewnością miała by ze mnie niezły ubaw."
 
 
 translate polish day1_e1927099:
 
 
-    me "Do you enjoy being here?"
+    me "Podoba ci się to miejsce?"
 
 
 translate polish day1_610b2212:
 
 
-    "I recalled the Slavya's question and thought it would be a good start for a conversation."
+    "Przypomniałem sobie pytanie Slavyi i pomyślałem, że będzie to dobry początek rozmowy."
 
 
 translate polish day1_f1be5fed:
 
 
-    un "Yes."
+    un "Tak."
 
 
 translate polish day1_783cf09d:
 
 
-    "She smiled slightly."
+    "Uśmiechnęła się lekko."
 
 
 translate polish day1_23729c98:
 
 
-    me "I guess I like it too..."
+    me "Mnie chyba też się podoba...."
 
 
 translate polish day1_b5a17bee:
 
 
-    "Lena definitely isn't very sociable and probably can't carry on a meaningless conversation as easily as Slavya."
+    "Lena na pewno nie jest zbyt towarzyska i prawdopodobnie nie może prowadzić bezsensownej rozmowy tak łatwo jak Slavya."
 
 
 translate polish day1_141ec821:
 
 
-    "But there was something about her that attracted attention."
+    "Ale było w niej coś, co przyciągnęło uwagę."
 
 
 translate polish day1_f8e0c3e7:
 
 
-    "Like a momentary glimpse of a reflection in the glass on a rainy autumn evening, which makes you turn around and stare into darkness searching for something that you saw out of the corner of your eye."
+    "Jak chwilowe spojrzenie odbicia w szybie w deszczowy jesienny wieczór, które sprawia, że odwracasz się i patrzysz w ciemność szukając czegoś, co widziałeś kątem oka."
 
 
 translate polish day1_04705c56:
 
 
-    "Of course you weren’t able to distinguish or understand what it was but it still felt so tempting..."
+    "Oczywiście nie byłeś w stanie rozróżnić lub zrozumieć, co to było, ale nadal czułeś się tak kusząco..."
 
 
 translate polish day1_9ee89722:
 
 
-    "Lena was still reading the book without paying any attention to my presence."
+    "Lena nadal czytała książkę, nie zwracając uwagi na moją obecność.."
 
 
 translate polish day1_62582949:
 
 
-    "And I had no intention of asking her anything about this camp or this world in general."
+    "I nie miałem zamiaru pytać jej o ten obóz ani w ogóle o ten świat."
 
 
 translate polish day1_a1e73db2:
 
 
-    me "Beautiful night..."
+    me "Piękna noc..."
 
 
 translate polish day1_5ef3d7d4:
 
 
-    un "Yes..."
+    un "Tak..."
 
 
 translate polish day1_76d86f28:
 
 
-    th "How in a world would you start a conversation with her?"
+    th "Jak do licha zacząłbyś z nią rozmawiać?"
 
 
 translate polish day1_69ef7bda:
 
 
-    un "It's late, I have to go…"
+    un "Jest późno, muszę już iść…"
 
 
 translate polish day1_45544479:
 
 
-    me "Yes, it's quite late…"
+    me "Tak, jest już dość późno…"
 
 
 translate polish day1_2629037f:
 
 
-    un "Good night."
+    un "Dobrej nocy."
 
 
 translate polish day1_fab13f1e:
 
 
-    me "Night…"
+    me "Dobranoc…"
 
 
 translate polish day1_e5d71cd0:
 
 
-    "There was something strange about this girl."
+    "Było coś dziwnego w tej dziewczynie."
 
 
 translate polish day1_482011b5:
 
 
-    th "At first glance she is a typically shy and modest pioneer girl, but…"
+    th "Na pierwszy rzut oka jest ona typowo nieśmiałą i skromną pionierką, ale…"
 
 
 translate polish day1_efa2bb54:
 
 
-    "The mystery of Lena took its own place in the massive list of mysteries about this camp which I had started to put together in my head."
+    "Tajemnica Leny zajęła własne miejsce na olbrzymiej liście tajemnic tego obozu, którą zacząłem układać w głowie."
 
 
 translate polish day1_a20cefa7_16:
@@ -4592,271 +4592,271 @@ translate polish day1_a20cefa7_16:
 translate polish day1_047c6176:
 
 
-    th "A lazy evening, there’s nothing like a good time with nothing to do…"
+    th "Leniwy wieczór, nie ma to jak dobra chwila z niczym do roboty…"
 
 
 translate polish day1_8b243a91:
 
 
-    "I headed towards Olga Dmitrievna’s cabin."
+    "Skierowałem się do kabiny Olgi Dmitrievny."
 
 
 translate polish day1_76db5439:
 
 
-    "The light in the house was on."
+    "Światło w domu było zapalone."
 
 
 translate polish day1_01c690bf:
 
 
-    mt "Hello, Semyon!{w} You're quite late!"
+    mt "Witaj, Semyon!{w} Jesteś dość późno!"
 
 
 translate polish day1_ccd4c421:
 
 
-    me "Yeah…{w} I went for a walk to look around the camp."
+    me "Tak...{w} Poszedłem na spacer, aby rozejrzeć się po obozie."
 
 
 translate polish day1_6e6b09c8:
 
 
-    mt "Alright.{w} You will be sleeping here."
+    mt "W porządku.{w} Będziesz tu spał."
 
 
 translate polish day1_d0ba333c:
 
 
-    "She pointed her finger at one of the beds."
+    "Skierowała swój palec na jedno z łóżek."
 
 
 translate polish day1_54ddf89e:
 
 
-    me "Right here...?"
+    me "Właśnie tutaj...?"
 
 
 translate polish day1_07acf34e:
 
 
-    "I was a bit surprised."
+    "Byłem trochę zaskoczony."
 
 
 translate polish day1_0cc846e0:
 
 
-    mt "Yeah, is something wrong?{w} We are out of free cabins anyway."
+    mt "Tak, czy coś jest nie tak? I tak nie mamy wolnych kabin."
 
 
 translate polish day1_e5c2c901:
 
 
-    "The camp leader smiled, but I rather think it was just out of politeness."
+    "Kierowniczka obozu uśmiechnęła się, ale myślę raczej, że to było po prostu z grzeczności."
 
 
 translate polish day1_e6f03e6e:
 
 
-    mt "You do want to be a decent pioneer, don't you?"
+    mt "Chcesz być przyzwoitym pionierem, czyż nie?"
 
 
 translate polish day1_6d7c696f:
 
 
-    "There was a clear emphasis on the word 'decent'."
+    'Wyraźny nacisk położono na słowo "przyzwoity".'
 
 
 translate polish day1_fa9f2c55:
 
 
-    me "Yep... Sure..."
+    me "Tia... Pewnie..."
 
 
 translate polish day1_c2a35634:
 
 
-    "I was lost in thought for a moment."
+    "Przez chwilę byłem zagubiony w myślach."
 
 
 translate polish day1_8edc3e00:
 
 
-    me "Don’t ya mind it mademoiselle?"
+    me "Nie masz nic przeciwko temu, mademoiselle?"
 
 
 translate polish day1_d642ee60:
 
 
-    "She looked at me oddly.{w} With surprise and some offense in her eyes."
+    "Spojrzała na mnie dziwnie.{w} Z zaskoczeniem i odrazą w jej oczach."
 
 
 translate polish day1_a63ad949:
 
 
-    mt "A pioneer should respect their elders!"
+    mt "Pionier powinien szanować starszych!"
 
 
 translate polish day1_8492f5e5:
 
 
-    " Olga Dmitrievna said strictly."
+    " Olga Dmitrievna powiedziała surowo."
 
 
 translate polish day1_4adb9df1:
 
 
-    me "Of course he should, no one argues with that…"
+    me "Oczywiście, że powinien. Nikt się z tym nie kłóci…"
 
 
 translate polish day1_343b3a4f:
 
 
-    "I blathered, not realising what was wrong."
+    "Kompletnie nie zrozumiałem o co jej chodziło."
 
 
 translate polish day1_1c5c9771:
 
 
-    mt "Shouldn't you also...?"
+    mt "Czy ty też nie powinieneś...?"
 
 
 translate polish day1_8fb93608:
 
 
-    "She stared at me."
+    "Patrzyła na mnie."
 
 
 translate polish day1_4b041b53:
 
 
-    "Under such a gaze even mithril forged by the best dwarf masters from the deepest dungeons would melt."
+    "Pod takim spojrzeniem stopiłby się nawet mithril wykuty przez najlepszych krasnaludzkich mistrzów z najgłębszych lochów."
 
 
 translate polish day1_8e8da635:
 
 
-    me "Should I what?{w} What's up, toots?"
+    me "Powinienem co?{w} No co, babo?"
 
 
 translate polish day1_50297304:
 
 
-    "Annoyance and a lack of understanding made me raise my voice."
+    "Irytacja i brak zrozumienia zmusił mnie do podniesienia głosu."
 
 
 translate polish day1_20f9f9be:
 
 
-    mt "You must address adults appropriately!"
+    mt "Musisz odpowiednio zwracać się do dorosłych!"
 
 
 translate polish day1_0bdad8e7:
 
 
-    th "Yes, of course there are a lot of strange things here…{w} But this girl is just a couple years older than me..."
+    th "Tak, oczywiście jest tu wiele dziwnych rzeczy...{w} Ale ta dziewczyna jest tylko kilka lat starsza ode mnie..."
 
 
 translate polish day1_d2336ee2:
 
 
-    th "Or maybe even younger..."
+    th "A może nawet młodsza..."
 
 
 translate polish day1_c447246d:
 
 
-    "But I decided not to argue – while just a few minutes ago I would never have called her an adult, I have to admit that she was also given a strong character."
+    "Postanowiłem jednak się nie wdawać się z nią w dyskusję - choć jeszcze kilka minut temu nigdy nie nazwałbym jej dorosłą, to muszę przyznać, że i ona otrzymała silny charakter."
 
 
 translate polish day1_6a31f527:
 
 
-    "And in any case I wasn't in a position to argue."
+    "W każdym razie nie byłem w stanie się kłócić."
 
 
 translate polish day1_28205106:
 
 
-    me "As you say… ma'am."
+    me "Jak sobie życzysz... proszę pani."
 
 
 translate polish day1_9fde8ff9:
 
 
-    "I mumbled."
+    "Wymamrotałem."
 
 
 translate polish day1_c0fad5bd:
 
 
-    mt "That's much better!{w} That is how a decent pioneer should conduct himself!"
+    mt "Tak jest o wiele lepiej!{w} Tak powinien się zachowywać przyzwoity pionier!"
 
 
 translate polish day1_fc0afa91:
 
 
-    mt "And now it's time to sleep!"
+    mt "A teraz czas spać!"
 
 
 translate polish day1_cee3bfd9:
 
 
-    "Honestly speaking, I was going to become neither a decent nor an indecent pioneer."
+    "Szczerze mówiąc, nie miałem zamiaru zostać ani przyzwoitym, ani nieprzyzwoitym pionierem."
 
 
 translate polish day1_06cf444d:
 
 
-    "Just yesterday I wasn't going to become a pioneer at all..."
+    "Jeszcze wczoraj nie miałem zamiaru w ogóle zostać pionierem..."
 
 
 translate polish day1_e62f6767:
 
 
-    th "But do I have choice now?"
+    th "Ale czy mam teraz wybór?"
 
 
 translate polish day1_a3857c58:
 
 
-    "'If you don't want to, we'll have to make you' – this is the motto Olga Dmitrievna was probably going to use."
+    '"Jeśli nie chcesz, będziemy musieli cię zmusić" - to motto Olgi Dmitrievny, którego prawdopodobnie by użyła.'
 
 
 translate polish day1_fe66fa24:
 
 
-    "I climbed onto the bed and closed my eyes only to realise how tired I was after today."
+    "Wszedłem do łóżka i zamknąłem oczy tylko po to, by zdać sobie sprawę, jak bardzo zmęczony byłem po dzisiejszym dniu."
 
 
 translate polish day1_80860151:
 
 
-    "Something hammered in my head awfully, as if my brains had started a night shift."
+    "Coś strasznie waliło mi w głowie, jakby mój mózg zaczął nocną zmianę."
 
 
 translate polish day1_af68a167:
 
 
-    "And they seemed to be aimed more at rolling steel than working on something more sensitive."
+    "I wydawało się, że to bardziej walcowanie stali niż praca nad czymś bardziej wrażliwym."
 
 
 translate polish day1_95ae7d8f:
 
 
-    "The bus flew through my mind..."
+    "Autobus przeleciał mi przez głowę..."
 
 
 translate polish day1_de155e12:
 
 
-    "And the square with the monument..."
+    "I plac z pomnikiem..."
 
 
 translate polish day1_4d51c966:
 
 
-    "The canteen, full of pioneers...{w} And the malicious face of Ulyana."
+    "Stołówka pełna pionierów...{w} Oraz złośliwa twarz Ulyany."
 
 
 translate polish day1_169054b7:
@@ -4874,11 +4874,10 @@ translate polish day1_06f01a7c:
 translate polish day1_753d87f9:
 
 
-    "And even recalling Alisa didn’t give me too much of a negative feeling."
+    "A nawet przypomnienie sobie Alisy nie dawało mi zbyt wielu negatywnych odczuć."
 
 
 translate polish day1_1de79ea9:
 
 
-    th "What if I'm here for good...?"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    th 'A co jeśli jestem tu na dobre...?'
