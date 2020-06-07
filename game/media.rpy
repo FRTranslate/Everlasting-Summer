@@ -641,7 +641,7 @@ init:
     elif _preferences.language == "spanish":
         image widget map = get_image("maps/map_es.jpg")
     elif _preferences.language == "polish":
-        image widget map = get_image("maps/map_en.jpg")
+        image widget map = get_image("maps/map_pl.jpg")
     elif _preferences.language == "italian":
         image widget map = get_image("maps/map_it.jpg")
     elif _preferences.language == "chinese":
@@ -661,6 +661,12 @@ init -997 python:
             "available": get_image("maps/map_en_available.jpg"),
             "selected": get_image("maps/map_en_selected.jpg")
         }
+    elif _preferences.language == "polish":
+        store.map_pics = {
+            "bgpic": get_image("maps/map_pl.jpg"),
+            "available": get_image("maps/map_pl_available.jpg"),
+            "selected": get_image("maps/map_pl_selected.jpg")
+        }
     elif _preferences.language == "spanish":
         store.map_pics = {
             "bgpic": get_image("maps/map_es.jpg"),
@@ -678,12 +684,6 @@ init -997 python:
             "bgpic": get_image("maps/map_ch.jpg"),
             "available": get_image("maps/map_ch_available.jpg"),
             "selected": get_image("maps/map_ch_selected.jpg")
-        }
-    elif _preferences.language == "polish":
-        store.map_pics = {
-            "bgpic": get_image("maps/map_en.jpg"),
-            "available": get_image("maps/map_en_available.jpg"),
-            "selected": get_image("maps/map_en_selected.jpg")
         }
     else:
         store.map_pics = {
